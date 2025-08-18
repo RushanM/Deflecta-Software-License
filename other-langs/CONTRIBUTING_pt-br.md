@@ -1,12 +1,12 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/CONTRIBUTING_ru-ru.md), [Ucraniano (uk-ua)](/CONTRIBUTING_uk-ua.md), [Inglês Americano (en-us)](/CONTRIBUTING.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/CONTRIBUTING_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-langs/CONTRIBUTING_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/CONTRIBUTING_uk-ua.md), [Inglês Americano (en-us)](/CONTRIBUTING.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/other-langs/CONTRIBUTING_es-mx.md).
 
 # Diretrizes de Contribuição de 2025
 
-> **Observação**: este documento é um complemento à [licença principal do projeto](/LICENSE_pt-br.md) e detalha os direitos e obrigações dos contribuidores. Atenção especial deve ser dada à [seção "6. Contribuições da Comunidade e Uso de Ideias"](/LICENSE_pt-br.md#1-contribuições-da-comunidade-e-uso-de-ideias) na licença.
+> **Observação**: este documento é um complemento à [licença principal do projeto](/other-langs/LICENSE_pt-br.md) e detalha os direitos e obrigações dos contribuidores. Atenção especial deve ser dada à [seção "6. Contribuições da Comunidade e Uso de Ideias"](/other-langs/LICENSE_pt-br.md#1-contribuições-da-comunidade-e-uso-de-ideias) na licença.
 
 ## 1. Contribuições da Comunidade e Uso de Ideias
 
-* Ao fornecer contribuições ao projeto original (por meio de pull requests ou outro mecanismo), você concorda que sua contribuição será distribuída nos termos [desta licença](/LICENSE_pt-br.md);
+* Ao fornecer contribuições ao projeto original (por meio de pull requests ou outro mecanismo), você concorda que sua contribuição será distribuída nos termos [desta licença](/other-langs/LICENSE_pt-br.md);
 * O detentor dos direitos autorais do projeto original tem o direito de aceitar, rejeitar ou modificar qualquer contribuição a seu critério;
 * A autoria da contribuição permanece com seu autor e será indicada no histórico de edições e na lista de criadores;
 * Fazer uma contribuição não dá o direito de ser considerado coautor do projeto original como um todo, a menos que explicitamente declarado pelo detentor dos direitos autorais.

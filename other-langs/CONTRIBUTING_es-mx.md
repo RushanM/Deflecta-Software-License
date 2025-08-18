@@ -1,12 +1,12 @@
-Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/CONTRIBUTING_ru-ru.md), [Ucraniano (uk-ua)](/CONTRIBUTING_uk-ua.md), [Inglés Americano (en-us)](/CONTRIBUTING.md), [Portugués Brasileño (pt-br)](/CONTRIBUTING_pt-br.md), **Español Mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other-langs/CONTRIBUTING_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/CONTRIBUTING_uk-ua.md), [Inglés Americano (en-us)](/CONTRIBUTING.md), [Portugués Brasileño (pt-br)](/other-langs/CONTRIBUTING_pt-br.md), **Español Mexicano (es-mx)**.
 
 # Guía de Contribución de 2025
 
-> **Nota**: este documento complementa la [licencia principal del proyecto](/LICENSE_es-mx.md) y detalla los derechos y obligaciones de los contribuyentes. Se debe prestar especial atención a la [sección "6. Contribuciones de la Comunidad y Uso de Ideas"](/LICENSE_es-mx.md#1-contribuciones-de-la-comunidad-y-uso-de-ideas) en la licencia.
+> **Nota**: este documento complementa la [licencia principal del proyecto](/other-langs/LICENSE_es-mx.md) y detalla los derechos y obligaciones de los contribuyentes. Se debe prestar especial atención a la [sección "6. Contribuciones de la Comunidad y Uso de Ideas"](/other-langs/LICENSE_es-mx.md#1-contribuciones-de-la-comunidad-y-uso-de-ideas) en la licencia.
 
 ## 1. Contribuciones de la Comunidad y Uso de Ideas
 
-* Al proporcionar contribuciones al proyecto original (a través de solicitudes de extracción — pull requests, u otro mecanismo), usted acepta que su contribución será distribuida bajo los términos de [esta licencia](/LICENSE_es-mx.md);
+* Al proporcionar contribuciones al proyecto original (a través de solicitudes de extracción — pull requests, u otro mecanismo), usted acepta que su contribución será distribuida bajo los términos de [esta licencia](/other-langs/LICENSE_es-mx.md);
 * El titular de los derechos de autor del proyecto original tiene el derecho de aceptar, rechazar o modificar cualquier contribución a su discreción;
 * La autoría de la contribución permanece con su autor y será indicada en el historial de ediciones y la lista de creadores;
 * Hacer una contribución no da derecho a ser considerado coautor del proyecto original en su conjunto, a menos que el titular de los derechos de autor lo indique explícitamente.

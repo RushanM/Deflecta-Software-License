@@ -1,4 +1,4 @@
-This document is available in the following languages: [Russian (ru-ru)](/docs/CONTRIBUTING_ru-ru.md), [Ukrainian (uk-ua)](/docs/CONTRIBUTING_uk-ua.md), **English (en-us)**, [Brazilian Portuguese (pt-br)](/docs/CONTRIBUTING_pt-br.md), [Mexican Spanish (es-mx)](/docs/CONTRIBUTING_es-mx.md).
+This document is available in the following languages: [Russian (ru-ru)](/other-langs/CONTRIBUTING_ru-ru.md), [Ukrainian (uk-ua)](/other-langs/CONTRIBUTING_uk-ua.md), **American English (en-us)**, [Brazilian Portuguese (pt-br)](/other-langs/CONTRIBUTING_pt-br.md), [Mexican Spanish (es-mx)](/other-langs/CONTRIBUTING_es-mx.md).
 
 # Contribution Guidelines for 2025
 
@@ -46,4 +46,4 @@ If the same file/component simultaneously falls under the requirements of severa
 
 * [📜 License](/LICENSE.md) - main document with rights and restrictions,
 * [👤 Attribution samples](/ATTRIBUTION.md) - how to properly indicate authorship,
-* [⚒️ Terms of use](/docs/TERMS_OF_USE.md) - additional rules for using the project.
+* [⚒️ Terms of use](/other-langs/TERMS_OF_USE.md) - additional rules for using the project.

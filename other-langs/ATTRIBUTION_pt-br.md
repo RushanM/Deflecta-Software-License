@@ -1,8 +1,8 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/ATTRIBUTION_ru-ru.md), [Ucraniano (uk-ua)](/ATTRIBUTION_uk-ua.md), [Inglês Americano (en-us)](/ATTRIBUTION.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/ATTRIBUTION_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-langs/ATTRIBUTION_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/ATTRIBUTION_uk-ua.md), [Inglês Americano (en-us)](/ATTRIBUTION.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/other-langs/ATTRIBUTION_es-mx.md).
 
 # Exemplos de Atribuição
 
-> **Importante**: este documento complementa a [licença do projeto](/LICENSE_pt-br.md), seção "1. Autoria e Atribuição". A indicação correta de autoria é um requisito obrigatório ao utilizar quaisquer partes do projeto.
+> **Importante**: este documento complementa a [licença do projeto](/other-langs/LICENSE_pt-br.md), seção "1. Autoria e Atribuição". A indicação correta de autoria é um requisito obrigatório ao utilizar quaisquer partes do projeto.
 
 Se você usar qualquer parte do código ou recursos do repositório PROJECT_NAME, por favor, mencione a autoria.
 
