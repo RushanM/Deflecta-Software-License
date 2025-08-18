@@ -27,11 +27,11 @@ Para aplicar esta licencia a tu proyecto:
 
 1. Copia el archivo LICENSE apropiado en tu repositorio. Incluye los archivos complementarios (TERMS_OF_USE, CONTRIBUTING, ATTRIBUTION) según sea necesario. Puedes completarlos tú mismo o usar las versiones listas de este repositorio.
 2. Reemplaza los marcadores:
-2.1. `COPYRIGHT_HOLDER` con tu nombre u organización.
-2.2. `YEAR_NUMBER` con el año actual.
-2.3. `STATE_NAME` con tu país/estado de residencia.
-2.4. `EMAIL` con tu dirección de correo electrónico.
-2.5. `PROJECT_NAME` con el nombre de tu proyecto.
+* `COPYRIGHT_HOLDER` con tu nombre u organización.
+* `YEAR_NUMBER` con el año actual.
+* `STATE_NAME` con tu país/estado de residencia.
+* `EMAIL` con tu dirección de correo electrónico.
+* `PROJECT_NAME` con el nombre de tu proyecto.
 3. Listo.
 
 ## Beneficios de la Licencia Deflecta
