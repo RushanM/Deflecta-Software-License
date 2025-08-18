@@ -21,14 +21,18 @@ A licença consiste em vários documentos complementares:
 * **ATTRIBUTION**: Exemplos de declarações de atribuição adequadas
 * **CONTRIBUTING**: Diretrizes para contribuir com o projeto
 
-## Como Usar Esta Licença
+## Como Usar
 
 Para aplicar esta licença ao seu projeto:
 
-1. Copie o arquivo LICENSE apropriado para seu repositório
-2. Substitua o texto placeholder `ПРАВООБЛАДАТЕЛЬ` pelo seu nome/organização
-3. Inclua os arquivos suplementares (TERMS_OF_USE, ATTRIBUTION, CONTRIBUTING) conforme necessário
-4. Certifique-se de que todos os arquivos estejam devidamente traduzidos se você precisar de suporte multilíngue
+1. Copie o arquivo LICENSE apropriado para seu repositório. Inclua os arquivos suplementares (TERMS_OF_USE, CONTRIBUTING, ATTRIBUTION) conforme necessário. Você pode preenchê-los por conta própria ou usar as versões prontas deste repositório.
+2. Substitua os marcadores:
+2.1. `COPYRIGHT_HOLDER` com seu nome ou organização.
+2.2. `YEAR_NUMBER` com o ano atual.
+2.3. `STATE_NAME` com seu país/estado de residência.
+2.4. `EMAIL` com seu endereço de email.
+2.5. `PROJECT_NAME` com o nome do seu projeto.
+3. Pronto.
 
 ## Benefícios da Licença Deflecta
 
@@ -37,6 +41,18 @@ Para aplicar esta licença ao seu projeto:
 * Aborda cenários modernos de uso como aprendizado de máquina, streaming e mundos virtuais
 * Inclui processos detalhados de resolução de disputas
 * Disponível em vários idiomas com disposições claras para aplicação internacional
+
+## Agradecimentos
+
+A licença foi revisada e aprovada pelos seguintes testadores:
+
+* JackLamp360,
+* Gleb "GKProduction" Kapustin,
+* Dmitry "Eiser Dip",
+* Matvey "Barsik" Lebedev,
+* Yaroslav "Sallo666" Sipyagin.
+
+Seu feedback positivo ajudou a garantir a praticidade da licença.
 
 ## Precisa de Mais Informações?
 

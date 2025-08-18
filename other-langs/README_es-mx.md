@@ -21,14 +21,18 @@ La licencia consta de varios documentos complementarios:
 * **ATTRIBUTION**: Ejemplos de declaraciones de atribución adecuadas
 * **CONTRIBUTING**: Directrices para contribuir al proyecto
 
-## Cómo Usar Esta Licencia
+## Cómo Usar
 
 Para aplicar esta licencia a tu proyecto:
 
-1. Copia el archivo LICENSE apropiado en tu repositorio
-2. Reemplaza el texto marcador `ПРАВООБЛАДАТЕЛЬ` con tu nombre/organización
-3. Incluye los archivos complementarios (TERMS_OF_USE, ATTRIBUTION, CONTRIBUTING) según sea necesario
-4. Asegúrate de que todos los archivos estén correctamente traducidos si necesitas soporte en varios idiomas
+1. Copia el archivo LICENSE apropiado en tu repositorio. Incluye los archivos complementarios (TERMS_OF_USE, CONTRIBUTING, ATTRIBUTION) según sea necesario. Puedes completarlos tú mismo o usar las versiones listas de este repositorio.
+2. Reemplaza los marcadores:
+2.1. `COPYRIGHT_HOLDER` con tu nombre u organización.
+2.2. `YEAR_NUMBER` con el año actual.
+2.3. `STATE_NAME` con tu país/estado de residencia.
+2.4. `EMAIL` con tu dirección de correo electrónico.
+2.5. `PROJECT_NAME` con el nombre de tu proyecto.
+3. Listo.
 
 ## Beneficios de la Licencia Deflecta
 
@@ -37,6 +41,18 @@ Para aplicar esta licencia a tu proyecto:
 * Aborda escenarios de uso modernos como aprendizaje automático, transmisión en vivo y mundos virtuales
 * Incluye procesos detallados de resolución de disputas
 * Disponible en varios idiomas con disposiciones claras para aplicación internacional
+
+## Agradecimientos
+
+La licencia fue revisada y aprobada por los siguientes evaluadores:
+
+* JackLamp360,
+* Gleb "GKProduction" Kapustin,
+* Dmitry "Eiser Dip",
+* Matvey "Barsik" Lebedev,
+* Yaroslav "Sallo666" Sipyagin.
+
+Su retroalimentación positiva ayudó a confirmar la practicidad de la licencia.
 
 ## ¿Necesitas Más Información?
 

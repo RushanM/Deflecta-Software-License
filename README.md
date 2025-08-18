@@ -25,10 +25,14 @@ The license consists of several complementary documents:
 
 To apply this license to your project:
 
-1. Copy the appropriate LICENSE file to your repository
-2. Replace the placeholder text `COPYRIGHT_HOLDER`/`ПРАВООБЛАДАТЕЛЬ` with your name/organization
-3. Include the supplementary files (TERMS_OF_USE, ATTRIBUTION, CONTRIBUTING) as needed
-4. Ensure all files are properly translated if you need multi-language support
+1. Copy the appropriate LICENSE file to your repository. Include supplementary files (TERMS_OF_USE, CONTRIBUTING, ATTRIBUTION) as needed. You can fill these in yourself or use the ready-made versions from this repository.
+2. Replace the placeholders:
+2.1. `COPYRIGHT_HOLDER` with your name or organization.
+2.2. `YEAR_NUMBER` with the current year.
+2.3. `STATE_NAME` with your country/state of residence.
+2.4. `EMAIL` with your email address.
+2.5. `PROJECT_NAME` with your project name.
+3. You're done.
 
 ## Benefits
 
@@ -37,6 +41,18 @@ To apply this license to your project:
 * Addresses modern usage scenarios like machine learning, streaming, and virtual worlds
 * Includes detailed dispute resolution processes
 * Available in multiple languages with clear provisions for international application
+
+## Acknowledgments
+
+The license was reviewed and approved by the following testers:
+
+* JackLamp360,
+* Gleb "GKProduction" Kapustin,
+* Dmitry "Eiser Dip",
+* Matvey "Barsik" Lebedev,
+* Yaroslav "Sallo666" Sipyagin.
+
+Their positive feedback helped ensure the practicality of the license.
 
 ## Need More Information?
 
