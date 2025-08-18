@@ -1,8 +1,8 @@
-Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/TERMS_OF_USE_ru-ru.md), [Ucraniano (uk-ua)](/TERMS_OF_USE_uk-ua.md), [Inglés Americano (en-us)](/TERMS_OF_USE.md), [Portugués Brasileño (pt-br)](/TERMS_OF_USE_pt-br.md), **Español Mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other-langs/TERMS_OF_USE_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/TERMS_OF_USE_uk-ua.md), [Inglés Americano (en-us)](/TERMS_OF_USE.md), [Portugués Brasileño (pt-br)](/other-langs/TERMS_OF_USE_pt-br.md), **Español Mexicano (es-mx)**.
 
 # Términos de Uso del Proyecto de 2025
 
-> **Importante**: este documento complementa la [licencia principal del proyecto](/LICENSE_es-mx.md) y especifica las reglas de uso en escenarios específicos. En caso de contradicciones entre este documento y la licencia, la licencia tiene prioridad.
+> **Importante**: este documento complementa la [licencia principal del proyecto](/other-langs/LICENSE_es-mx.md) y especifica las reglas de uso en escenarios específicos. En caso de contradicciones entre este documento y la licencia, la licencia tiene prioridad.
 
 ## 1. Uso en Medios y Transmisiones en Vivo
 

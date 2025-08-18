@@ -1,4 +1,4 @@
-Este documento está disponível nos seguintes idiomas: [russo (ru-ru)](/LICENSE_ru-ru.md), [ucraniano (uk-ua)](/LICENSE_uk-ua.md), [inglês americano (en-us)](/LICENSE.md), **português brasileiro (pt-br)**, [espanhol mexicano (es-mx)](/LICENSE_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [russo (ru-ru)](/other-langs/LICENSE_ru-ru.md), [ucraniano (uk-ua)](/other-langs/LICENSE_uk-ua.md), [inglês americano (en-us)](/LICENSE.md), **português brasileiro (pt-br)**, [espanhol mexicano (es-mx)](/other-langs/LICENSE_es-mx.md).
 
 # Licença de Software Deflecta, 1ª Edição de 2025
 
