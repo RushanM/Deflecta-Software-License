@@ -46,9 +46,9 @@ Para aplicar esta licença ao seu projeto:
 
 A licença foi revisada e aprovada pelos seguintes testadores:
 
-* JackLamp360,
-* Gleb "GKProduction" Kapustin,
 * Dmitry "Eiser Dip",
+* Gleb "GKProduction" Kapustin,
+* JackLamp360,
 * Matvey "Barsik" Lebedev,
 * Yaroslav "Sallo666" Sipyagin.
 

@@ -249,6 +249,6 @@ Para cualquier pregunta sobre esta licencia, puedes contactar por correo electr�
 
 ## Documentos Relacionados
 
-* [👤 ejemplos de menciones](/ATTRIBUTION_ru-RU.md) — cómo indicar correctamente la autoría al utilizar el proyecto,
 * [⚒️ términos de uso](/TERMS_OF_USE_ru-RU.md) — reglas para aplicar el proyecto en varios escenarios,
-* [🤝 guía de contribución](/CONTRIBUTING_ru-RU.md) — reglas para colaboradores y colaboración.
+* [🤝 guía de contribución](/CONTRIBUTING_ru-RU.md) — reglas para colaboradores y colaboración,
+* [👤 ejemplos de menciones](/ATTRIBUTION_ru-RU.md) — cómo indicar correctamente la autoría al utilizar el proyecto.

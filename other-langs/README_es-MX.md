@@ -46,9 +46,9 @@ Para aplicar esta licencia a tu proyecto:
 
 La licencia fue revisada y aprobada por los siguientes evaluadores:
 
-* JackLamp360,
-* Gleb "GKProduction" Kapustin,
 * Dmitry "Eiser Dip",
+* Gleb "GKProduction" Kapustin,
+* JackLamp360,
 * Matvey "Barsik" Lebedev,
 * Yaroslav "Sallo666" Sipyagin.
 
