@@ -27,11 +27,11 @@ To apply this license to your project:
 
 1. Copy the appropriate LICENSE file to your repository. Include supplementary files (TERMS_OF_USE, CONTRIBUTING, ATTRIBUTION) as needed. You can fill these in yourself or use the ready-made versions from this repository.
 2. Replace the placeholders:
-  * `COPYRIGHT_HOLDER` with your name or organization;
-  * `YEAR_NUMBER` with the current year;
-  * `STATE_NAME` with your country/state of residence;
-  * `EMAIL` with your email address; and
-  * `PROJECT_NAME` with your project name.
+  * `COPYRIGHT_HOLDER`/`ПРАВООБЛАДАТЕЛЬ` with your name or organization;
+  * `YEAR_NUMBER`/`НОМЕР_ГОДА` with the current year;
+  * `STATE_NAME`/`НАЗВАНИЕ_ГОСУДАРСТВА` with your country/state of residence;
+  * `EMAIL`/`АДРЕС_ПОЧТЫ` with your email address; and
+  * `PROJECT_NAME`/`НАЗВАНИЕ_ПРОЕКТА` with your project name.
 3. You're done.
 
 ## Benefits

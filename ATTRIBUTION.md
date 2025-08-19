@@ -8,7 +8,7 @@ If you use any part of the code or assets from the PROJECT_NAME repository, plea
 
 Listed below are examples of attribution statements for using parts of the project, which you can include in your projects that use elements from PROJECT_NAME.
 
-| When using | Example |
+| Case | Example |
 | --- | --- |
 | Assets | This project was developed using assets from the video game PROJECT_NAME by COPYRIGHT_HOLDER |
 | Assets | This project was developed using assets from the video game PROJECT_NAME by COPYRIGHT_HOLDER |
