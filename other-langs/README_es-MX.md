@@ -1,8 +1,8 @@
 Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other-langs/README_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/README_uk-ua.md), [Inglés Americano (en-us)](/README.md), [Portugués Brasileño (pt-br)](/other-langs/README_pt-br.md), **Español Mexicano (es-mx)**.
 
-# Licencia de Software Deflecta, 1ª Edición (2025)
+# Licencia de Software Deflecta
 
-La Licencia de Software Deflecta es una licencia integral creada para proteger proyectos de software (especialmente juegos) mientras permite ciertos tipos de uso, modificación y distribución bajo condiciones específicas.
+**La Licencia de Software Deflecta** es una licencia integral creada para proteger proyectos de software (especialmente juegos) mientras permite ciertos tipos de uso, modificación y distribución bajo condiciones específicas.
 
 ## Características Clave
 
