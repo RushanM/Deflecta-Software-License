@@ -1,8 +1,8 @@
-Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other-langs/TERMS_OF_USE_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/TERMS_OF_USE_uk-ua.md), [Inglés Americano (en-us)](/TERMS_OF_USE.md), [Portugués Brasileño (pt-br)](/other-langs/TERMS_OF_USE_pt-br.md), **Español Mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [Ruso (ru-RU)](/other-langs/TERMS_OF_USE_ru-RU.md), [Inglés Americano (en-US)](/TERMS_OF_USE.md), [Ucraniano (uk-UA)](/other-langs/TERMS_OF_USE_uk-UA.md), [Portugués Brasileño (pt-BR)](/other-langs/TERMS_OF_USE_pt-BR.md), **Español Mexicano (es-MX)**.
 
 # Términos de Uso del Proyecto de 2025
 
-> **Importante:** este documento complementa la [licencia principal del proyecto](/other-langs/LICENSE_es-mx.md) y especifica las reglas de uso en escenarios específicos. En caso de contradicciones entre este documento y la licencia, la licencia tiene prioridad.
+> **Importante:** este documento complementa la [licencia principal del proyecto](/other-langs/LICENSE_es-MX.md) y especifica las reglas de uso en escenarios específicos. En caso de contradicciones entre este documento y la licencia, la licencia tiene prioridad.
 
 ## 1. Uso en Medios y Transmisiones en Vivo
 
@@ -21,7 +21,7 @@ Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other
 * Tienes derecho a descargar, ver y modificar los recursos multimedia del proyecto;
 * Se permite la publicación de recursos multimedia con derechos de autor en proyectos wiki (Fandom, wiki.gg, etc.) dedicados al proyecto;
 * Se permite el uso de recursos multimedia con derechos de autor en modificaciones no comerciales, builds y trabajos de fans con la debida atribución;
-* Para el uso comercial de recursos multimedia, se aplican las mismas reglas que en la [Sección 3 de la licencia](/LICENSE_es-mx.md#3-uso-comercial);
+* Para el uso comercial de recursos multimedia, se aplican las mismas reglas que en la [Sección 3 de la licencia](/LICENSE_es-MX.md#3-uso-comercial);
 * Puedes crear y publicar capturas de pantalla individuales del proyecto original sin atribución como imágenes independientes, incluidas publicaciones en redes sociales, mensajería y otras plataformas;
 * Puedes almacenar y transferir los recursos multimedia del proyecto a través de servicios de intercambio de archivos sin necesidad de atribución. Sin embargo, la distribución pública de dichos enlaces con fines comerciales (por ejemplo, en foros o sitios web) debe incluir una referencia al proyecto original;
 * Se permite el uso de recursos multimedia con derechos de autor en proyectos de terceros (que no sean modificaciones) con la debida atribución y referencia a la fuente.
@@ -82,15 +82,15 @@ Se regulan por las reglas de uso en servidor de la [Sección 5](#5-uso-en-servid
 
 ## 7. Marcas Registradas, Patentes y Otros Derechos de Propiedad Intelectual
 
-* [Esta licencia](/LICENSE_es-mx.md) no otorga derechos para usar marcas registradas, marcas de servicio, nombres comerciales, logotipos, nombres de dominio u otras marcas distintivas del titular de los derechos de autor;
+* [Esta licencia](/LICENSE_es-MX.md) no otorga derechos para usar marcas registradas, marcas de servicio, nombres comerciales, logotipos, nombres de dominio u otras marcas distintivas del titular de los derechos de autor;
 * El nombre del proyecto, su logotipo e identidad visual son propiedad intelectual del titular de los derechos de autor, incluso si no están registrados oficialmente;
 * Las modificaciones no deben usar marcas registradas o la marca del proyecto original de manera que pueda confundir a los usuarios respecto a la conexión de la modificación con el proyecto original o su aprobación por el titular de los derechos de autor;
 * Es aceptable indicar que una modificación está basada en el proyecto original, siempre que se sigan las reglas de atribución;
-* Si el proyecto contiene soluciones técnicas protegidas por patentes del titular de los derechos de autor, su uso está limitado solo a este proyecto y sus modificaciones que cumplan con los términos de la [licencia](/LICENSE_es-mx.md);
+* Si el proyecto contiene soluciones técnicas protegidas por patentes del titular de los derechos de autor, su uso está limitado solo a este proyecto y sus modificaciones que cumplan con los términos de la [licencia](/LICENSE_es-MX.md);
 * Está prohibido el uso del nombre del proyecto, logotipo, marcas registradas, personajes u otra identidad visual del titular de los derechos de autor en productos comerciales, empaques, marcas registradas o identidad corporativa de terceros sin el consentimiento previo por escrito del titular de los derechos de autor. Para obtener permiso, se requiere una solicitud por escrito y especificación de los términos de uso.
 
 ## Documentos Relacionados
 
-* [📜 Licencia](/LICENSE_es-mx.md) — documento principal con derechos y restricciones,
-* [👤 Ejemplos de atribución](/ATTRIBUTION_es-mx.md) — cómo acreditar correctamente la autoría,
-* [🤝 Guía de contribución](/CONTRIBUTING_es-mx.md) — reglas para contribuidores del proyecto.
+* [📜 Licencia](/LICENSE_es-MX.md) — documento principal con derechos y restricciones,
+* [👤 Ejemplos de atribución](/ATTRIBUTION_es-MX.md) — cómo acreditar correctamente la autoría,
+* [🤝 Guía de contribución](/CONTRIBUTING_es-MX.md) — reglas para contribuidores del proyecto.

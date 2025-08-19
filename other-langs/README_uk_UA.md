@@ -1,4 +1,4 @@
-Цей документ доступний наступними мовами: [російська (ru-ru)](/other-langs/README_ru-ru.md), **українська (uk-ua)**, [американська англійська (en-us)](/README.md), [бразильська португальська (pt-br)](/other-langs/README_pt-br.md), [мексиканська іспанська (es-mx)](/other-langs/README_es-mx.md).
+Цей документ доступний наступними мовами: [російська (ru-RU)](/other-langs/README_ru-RU.md), [американська англійська (en-US)](/README.md), **українська (uk-UA)**, [бразильська португальська (pt-BR)](/other-langs/README_pt-BR.md), [мексиканська іспанська (es-MX)](/other-langs/README_es-MX.md).
 
 # Програмна ліцензія Дефлекти
 

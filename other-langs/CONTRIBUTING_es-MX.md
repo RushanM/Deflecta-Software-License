@@ -1,12 +1,12 @@
-Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other-langs/CONTRIBUTING_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/CONTRIBUTING_uk-ua.md), [Inglés Americano (en-us)](/CONTRIBUTING.md), [Portugués Brasileño (pt-br)](/other-langs/CONTRIBUTING_pt-br.md), **Español Mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [Ruso (ru-RU)](/other-langs/CONTRIBUTING_ru-RU.md), [Inglés Americano (en-US)](/CONTRIBUTING.md), [Ucraniano (uk-UA)](/other-langs/CONTRIBUTING_uk-UA.md), [Portugués Brasileño (pt-BR)](/other-langs/CONTRIBUTING_pt-BR.md), **Español Mexicano (es-MX)**.
 
 # Guía de Contribución de 2025
 
-> **Nota:** este documento complementa la [licencia principal del proyecto](/other-langs/LICENSE_es-mx.md) y detalla los derechos y obligaciones de los contribuyentes. Se debe prestar especial atención a la [sección "6. Contribuciones de la Comunidad y Uso de Ideas"](/other-langs/LICENSE_es-mx.md#1-contribuciones-de-la-comunidad-y-uso-de-ideas) en la licencia.
+> **Nota:** este documento complementa la [licencia principal del proyecto](/other-langs/LICENSE_es-MX.md) y detalla los derechos y obligaciones de los contribuyentes. Se debe prestar especial atención a la [sección "6. Contribuciones de la Comunidad y Uso de Ideas"](/other-langs/LICENSE_es-MX.md#1-contribuciones-de-la-comunidad-y-uso-de-ideas) en la licencia.
 
 ## 1. Contribuciones de la Comunidad y Uso de Ideas
 
-* al proporcionar contribuciones al proyecto original (a través de solicitudes de extracción — pull requests, u otro mecanismo), usted acepta que su contribución será distribuida bajo los términos de [esta licencia](/other-langs/LICENSE_es-mx.md);
+* al proporcionar contribuciones al proyecto original (a través de solicitudes de extracción — pull requests, u otro mecanismo), usted acepta que su contribución será distribuida bajo los términos de [esta licencia](/other-langs/LICENSE_es-MX.md);
 * el titular de los derechos de autor del proyecto original tiene el derecho de aceptar, rechazar o modificar cualquier contribución a su discreción;
 * la autoría de la contribución permanece con su autor y será indicada en el historial de ediciones y la lista de creadores;
 * hacer una contribución no da derecho a ser considerado coautor del proyecto original en su conjunto, a menos que el titular de los derechos de autor lo indique explícitamente.
@@ -19,7 +19,7 @@ Está prohibido utilizar el proyecto o sus modificaciones para eludir patentes, 
 
 ### 3.1. Estado de la Licencia
 
-La [licencia del proyecto](/LICENSE_es-mx.md) no está automáticamente aprobada por la Open Source Initiative (OSI) o reconocida por la Free Software Foundation (FSF) como software libre, a menos que se indique explícitamente lo contrario.
+La [licencia del proyecto](/LICENSE_es-MX.md) no está automáticamente aprobada por la Open Source Initiative (OSI) o reconocida por la Free Software Foundation (FSF) como software libre, a menos que se indique explícitamente lo contrario.
 
 ### 3.2. Principio de Preservación de Condiciones de Componentes de Terceros
 

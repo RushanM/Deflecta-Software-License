@@ -1,8 +1,8 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-langs/TERMS_OF_USE_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/TERMS_OF_USE_uk-ua.md), [Inglês Americano (en-us)](/TERMS_OF_USE.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/other-langs/TERMS_OF_USE_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-RU)](/other-langs/TERMS_OF_USE_ru-RU.md), [Inglês Americano (en-US)](/TERMS_OF_USE.md), [Ucraniano (uk-UA)](/other-langs/TERMS_OF_USE_uk-UA.md), **Português Brasileiro (pt-BR)**, [Espanhol Mexicano (es-MX)](/other-langs/TERMS_OF_USE_es-MX.md).
 
 # Termos de Uso do Projeto de 2025
 
-> **Importante:** este documento complementa a [licença principal do projeto](/other-langs/LICENSE_pt-br.md) e especifica regras de uso em cenários específicos. Em caso de contradições entre este documento e a licença, a licença tem prioridade.
+> **Importante:** este documento complementa a [licença principal do projeto](/other-langs/LICENSE_pt-BR.md) e especifica regras de uso em cenários específicos. Em caso de contradições entre este documento e a licença, a licença tem prioridade.
 
 ## 1. Uso em Mídia e Transmissões ao Vivo
 
@@ -21,7 +21,7 @@ Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-l
 * Você tem o direito de baixar, visualizar e modificar os recursos de mídia do projeto;
 * A publicação de recursos de mídia com direitos autorais em projetos wiki (Fandom, wiki.gg, etc.) dedicados ao projeto é permitida;
 * O uso de recursos de mídia com direitos autorais em modificações não comerciais, builds e trabalhos de fãs é permitido com a devida atribuição;
-* Para uso comercial de recursos de mídia, aplicam-se as mesmas regras da [Seção 3 da licença](/LICENSE_pt-br.md#3-uso-comercial);
+* Para uso comercial de recursos de mídia, aplicam-se as mesmas regras da [Seção 3 da licença](/LICENSE_pt-BR.md#3-uso-comercial);
 * Você pode criar e publicar capturas de tela individuais do projeto original sem atribuição como imagens independentes, incluindo postagens em redes sociais, mensageiros e outras plataformas;
 * Você pode armazenar e transferir os recursos de mídia do projeto através de serviços de compartilhamento de arquivos sem necessidade de atribuição. No entanto, a distribuição pública de tais links para fins comerciais (por exemplo, em fóruns ou sites) deve incluir referência ao projeto original;
 * É permitido o uso de recursos de mídia com direitos autorais em projetos de terceiros (não modificações) com a devida atribuição e referência à fonte.
@@ -82,15 +82,15 @@ Regulamentados pelas regras de uso em servidor da [Seção 5](#5-uso-em-servidor
 
 ## 7. Marcas Registradas, Patentes e Outros Direitos de Propriedade Intelectual
 
-* [Esta licença](/LICENSE_pt-br.md) não concede direitos para uso de marcas registradas, marcas de serviço, nomes comerciais, logotipos, nomes de domínio ou outras marcas distintivas do detentor dos direitos autorais;
+* [Esta licença](/LICENSE_pt-BR.md) não concede direitos para uso de marcas registradas, marcas de serviço, nomes comerciais, logotipos, nomes de domínio ou outras marcas distintivas do detentor dos direitos autorais;
 * O nome do projeto, seu logotipo e identidade visual são propriedade intelectual do detentor dos direitos autorais, mesmo que não estejam oficialmente registrados;
 * As modificações não devem usar marcas registradas ou a marca do projeto original de maneira que possa enganar os usuários quanto à conexão da modificação com o projeto original ou sua aprovação pelo detentor dos direitos autorais;
 * É aceitável indicar que uma modificação é baseada no projeto original, desde que as regras de atribuição sejam seguidas;
-* Se o projeto contiver soluções técnicas protegidas por patentes do detentor dos direitos autorais, seu uso é limitado apenas a este projeto e suas modificações que cumpram os termos da [licença](/LICENSE_pt-br.md);
+* Se o projeto contiver soluções técnicas protegidas por patentes do detentor dos direitos autorais, seu uso é limitado apenas a este projeto e suas modificações que cumpram os termos da [licença](/LICENSE_pt-BR.md);
 * É proibido o uso do nome do projeto, logotipo, marcas registradas, personagens ou outra identidade visual do detentor dos direitos autorais em produtos comerciais, embalagens, marcas registradas ou identidade corporativa de terceiros sem consentimento prévio por escrito do detentor dos direitos autorais. Para obter permissão, é necessário um pedido por escrito e especificação dos termos de uso.
 
 ## Documentos Relacionados
 
-* [📜 Licença](/LICENSE_pt-br.md) — documento principal com direitos e restrições,
-* [👤 Exemplos de atribuição](/ATTRIBUTION_pt-br.md) — como creditar corretamente a autoria,
-* [🤝 Diretrizes de contribuição](/CONTRIBUTING_pt-br.md) — regras para contribuidores do projeto.
+* [📜 Licença](/LICENSE_pt-BR.md) — documento principal com direitos e restrições,
+* [👤 Exemplos de atribuição](/ATTRIBUTION_pt-BR.md) — como creditar corretamente a autoria,
+* [🤝 Diretrizes de contribuição](/CONTRIBUTING_pt-BR.md) — regras para contribuidores do projeto.

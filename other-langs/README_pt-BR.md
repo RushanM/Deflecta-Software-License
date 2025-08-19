@@ -1,4 +1,4 @@
-Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-langs/README_ru-ru.md), [Ucraniano (uk-ua)](/other-langs/README_uk-ua.md), [Inglês Americano (en-us)](/README.md), **Português Brasileiro (pt-br)**, [Espanhol Mexicano (es-mx)](/other-langs/README_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [Russo (ru-RU)](/other-langs/README_ru-RU.md), [Inglês Americano (en-US)](/README.md), [Ucraniano (uk-UA)](/other-langs/README_uk-UA.md), **Português Brasileiro (pt-BR)**, [Espanhol Mexicano (es-MX)](/other-langs/README_es-MX.md).
 
 # Licença de Software Deflecta
 

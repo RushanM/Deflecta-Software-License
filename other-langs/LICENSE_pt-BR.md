@@ -1,4 +1,4 @@
-Este documento está disponível nos seguintes idiomas: [russo (ru-ru)](/other-langs/LICENSE_ru-ru.md), [ucraniano (uk-ua)](/other-langs/LICENSE_uk-ua.md), [inglês americano (en-us)](/LICENSE.md), **português brasileiro (pt-br)**, [espanhol mexicano (es-mx)](/other-langs/LICENSE_es-mx.md).
+Este documento está disponível nos seguintes idiomas: [russo (ru-RU)](/other-langs/LICENSE_ru-RU.md), [inglês americano (en-US)](/LICENSE.md), [ucraniano (uk-UA)](/other-langs/LICENSE_uk-UA.md), **português brasileiro (pt-BR)**, [espanhol mexicano (es-MX)](/other-langs/LICENSE_es-MX.md).
 
 # Licença de Software Deflecta, 1ª Edição de 2025
 
@@ -70,7 +70,7 @@ Para fins informativos, recomenda-se acompanhar a modificação com um arquivo R
 * você não tem o direito de se denominar autor ou criador do projeto original;
 * para qualquer publicação de uma modificação, você deve especificar:
 * * o nome do projeto original (sempre obrigatório);
-* * o nome do titular dos direitos do projeto original (obrigatório para modificações, mas pode não ser indicado em certos casos conforme as seções [Nº 1](/TERMS_OF_USE_ru-ru.md#1-использование-в-медиа-и-прямых-трансляциях) e [Nº 2](/TERMS_OF_USE_ru-ru.md#2-использование-медиаресурсов) dos [Termos de Uso](/TERMS_OF_USE_ru-ru.md);
+* * o nome do titular dos direitos do projeto original (obrigatório para modificações, mas pode não ser indicado em certos casos conforme as seções [Nº 1](/TERMS_OF_USE_ru-RU.md#1-использование-в-медиа-и-прямых-трансляциях) e [Nº 2](/TERMS_OF_USE_ru-RU.md#2-использование-медиаресурсов) dos [Termos de Uso](/TERMS_OF_USE_ru-RU.md);
 * * um link para o repositório de origem;
 * * indicação explícita de que seu projeto é baseado no projeto original;
 * a atribuição deve ser claramente visível para os usuários e pode ser colocada de uma ou mais das seguintes maneiras:
@@ -81,7 +81,7 @@ Para fins informativos, recomenda-se acompanhar a modificação com um arquivo R
 * * para ambientes corporativos fechados — na documentação interna;
 * é proibida a publicação e distribuição (mas não a criação) de forks (modificações) onde a única mudança significativa é adicionar-se à lista de autores dentro do projeto. Esta restrição não se aplica a informações geradas automaticamente (histórico de commits, nomes dos autores das edições) ou metadados técnicos adicionados pela plataforma de controle de versão.
 
-> **Nota:** exemplos de atribuição adequada podem ser encontrados no documento ["Exemplos de Atribuição"](/ATTRIBUTION_ru-ru.md).
+> **Nota:** exemplos de atribuição adequada podem ser encontrados no documento ["Exemplos de Atribuição"](/ATTRIBUTION_ru-RU.md).
 
 ## 2. Uso do Código-Fonte
 
@@ -140,7 +140,7 @@ Para fins informativos, recomenda-se acompanhar a modificação com um arquivo R
 * * este direito não pode ser limitado pelos autores das modificações escolhendo uma licença diferente para seus projetos;
 * este direito de usar ideias não se estende a código específico ou recursos de mídia criados pelos autores das modificações, a menos que tenham sido fornecidos ao titular dos direitos ou publicados sob uma licença compatível.
 
-A parte restante está estabelecida nas [diretrizes de contribuição](/CONTRIBUTING_ru-ru.md). Ao fornecer uma contribuição, você concorda com os termos desta licença e reconhece o direito do titular dos direitos de usar suas ideias no projeto original.
+A parte restante está estabelecida nas [diretrizes de contribuição](/CONTRIBUTING_ru-RU.md). Ao fornecer uma contribuição, você concorda com os termos desta licença e reconhece o direito do titular dos direitos de usar suas ideias no projeto original.
 
 ## 7. Prioridade de Permissões Individuais
 
@@ -167,7 +167,7 @@ Se o titular dos direitos tiver dado permissão por escrito para ações que con
 * esta licença se aplica ao código-fonte e materiais do projeto;
 * modificações e compilações devem cumprir as seguintes condições:
 * * quando distribuídas sob esta licença – cumprir todos os seus termos;
-* * quando distribuídas sob outra licença – manter os requisitos desta licença em relação à atribuição, respeito aos direitos autorais e uso comercial (seções [#1](#1-autoria-e-atribuição), [#3](#3-uso-comercial), [#5](#5-distribuição) e [seção #2 dos Termos de Uso](/TERMS_OF_USE_ru-ru.md#2-использование-медиаресурсов));
+* * quando distribuídas sob outra licença – manter os requisitos desta licença em relação à atribuição, respeito aos direitos autorais e uso comercial (seções [#1](#1-autoria-e-atribuição), [#3](#3-uso-comercial), [#5](#5-distribuição) e [seção #2 dos Termos de Uso](/TERMS_OF_USE_ru-RU.md#2-использование-медиаресурсов));
 * no caso de distribuição de uma modificação sob outra licença que entre em conflito com os requisitos desta licença, aplica-se a seguinte ordem de prioridade:
 * * os requisitos desta licença para atribuição ([seção #1](#1-autoria-e-atribuição)) têm prioridade absoluta e devem ser observados em qualquer caso;
 * * os requisitos desta licença para uso comercial ([seção #3](#3-uso-comercial)) têm precedência sobre quaisquer limitações menos restritivas na licença escolhida;
@@ -176,7 +176,7 @@ Se o titular dos direitos tiver dado permissão por escrito para ações que con
 
 ## 11. Compatibilidade com Outras Licenças
 
-Informações sobre a compatibilidade desta licença com outras licenças estão descritas nas [diretrizes de contribuição](/CONTRIBUTING_ru-ru.md). Ao usar componentes de terceiros, é necessário seguir os princípios de preservação das condições de suas licenças.
+Informações sobre a compatibilidade desta licença com outras licenças estão descritas nas [diretrizes de contribuição](/CONTRIBUTING_ru-RU.md). Ao usar componentes de terceiros, é necessário seguir os princípios de preservação das condições de suas licenças.
 
 ## 12. Aplicação Internacional
 
@@ -213,7 +213,7 @@ Este software é fornecido "como está", sem garantia de qualquer tipo, expressa
 * * apresentar-se como o autor do projeto original;
 * * recusar-se a fornecer o código-fonte da modificação mediante solicitação do titular dos direitos quando houver suspeita de violação;
 * * publicar modificações criadas para contornar restrições internas do projeto para fins fraudulentos;
-* * usar o projeto de qualquer maneira proibida na [seção Usos Proibidos](/TERMS_OF_USE_ru-ru.md#4-запрещённые-способы-использования) dos [Termos de Uso do projeto](/TERMS_OF_USE_ru-ru.md);
+* * usar o projeto de qualquer maneira proibida na [seção Usos Proibidos](/TERMS_OF_USE_ru-RU.md#4-запрещённые-способы-использования) dos [Termos de Uso do projeto](/TERMS_OF_USE_ru-RU.md);
 * para restaurar direitos após uma violação, é necessário eliminar todas as violações e fornecer ao titular dos direitos confirmação da eliminação. O titular dos direitos verifica a eliminação das violações por:
 * * verificação da compilação e sua funcionalidade;
 * * verificação do código-fonte (se estiver aberto ou fornecido mediante solicitação);
@@ -241,7 +241,7 @@ Este software é fornecido "como está", sem garantia de qualquer tipo, expressa
 * após receber uma resposta, o titular dos direitos dentro de 15 dias corridos revisa as explicações fornecidas ou confirma a eliminação das violações;
 * se as partes não puderem chegar a um acordo dentro de 60 dias corridos a partir da primeira notificação, qualquer uma das partes pode propor o envolvimento de um mediador neutro.
 
-Informações adicionais sobre o procedimento de notificação e resolução de questões estão estabelecidas nas [diretrizes de contribuição](/CONTRIBUTING_ru-ru.md). Quando surgem questões sobre violações de licença, o titular dos direitos envia uma notificação por escrito indicando os pontos violados e ações corretivas solicitadas.
+Informações adicionais sobre o procedimento de notificação e resolução de questões estão estabelecidas nas [diretrizes de contribuição](/CONTRIBUTING_ru-RU.md). Quando surgem questões sobre violações de licença, o titular dos direitos envia uma notificação por escrito indicando os pontos violados e ações corretivas solicitadas.
 
 ## 17. Informações de Contato
 
@@ -249,6 +249,6 @@ Para quaisquer questões sobre esta licença, você pode entrar em contato via e
 
 ## Documentos Relacionados
 
-* [👤 exemplos de atribuição](/ATTRIBUTION_ru-ru.md) — como indicar corretamente a autoria ao usar o projeto,
-* [⚒️ termos de uso](/TERMS_OF_USE_ru-ru.md) — regras para aplicação do projeto em vários cenários,
-* [🤝 diretrizes de contribuição](/CONTRIBUTING_ru-ru.md) — regras para colaboradores e colaboração.
+* [👤 exemplos de atribuição](/ATTRIBUTION_ru-RU.md) — como indicar corretamente a autoria ao usar o projeto,
+* [⚒️ termos de uso](/TERMS_OF_USE_ru-RU.md) — regras para aplicação do projeto em vários cenários,
+* [🤝 diretrizes de contribuição](/CONTRIBUTING_ru-RU.md) — regras para colaboradores e colaboração.

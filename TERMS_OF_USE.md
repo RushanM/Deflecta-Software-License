@@ -1,4 +1,4 @@
-This document is available in the following languages: [Russian (ru-ru)](/other-langs/TERMS_OF_USE_ru-ru.md), **American English (en-us)**, [Ukrainian (uk-ua)](/other-langs/TERMS_OF_USE_uk-ua.md), [Brazilian Portuguese (pt-br)](/other-langs/TERMS_OF_USE_pt-br.md), [Mexican Spanish (es-mx)](/other-langs/TERMS_OF_USE_es-mx.md).
+This document is available in the following languages: [Russian (ru-RU)](/other-langs/TERMS_OF_USE_ru-RU.md), **American English (en-US)**, [Ukrainian (uk-UA)](/other-langs/TERMS_OF_USE_uk-UA.md), [Brazilian Portuguese (pt-BR)](/other-langs/TERMS_OF_USE_pt-BR.md), [Mexican Spanish (es-MX)](/other-langs/TERMS_OF_USE_es-MX.md).
 
 # Project Terms of Use, 2025
 

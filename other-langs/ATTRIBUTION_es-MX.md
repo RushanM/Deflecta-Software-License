@@ -1,8 +1,8 @@
-Este documento está disponible en los siguientes idiomas: [Ruso (ru-ru)](/other-langs/ATTRIBUTION_ru-ru.md), [Inglés Americano (en-us)](/ATTRIBUTION.md), [Ucraniano (uk-ua)](/other-langs/ATTRIBUTION_uk-ua.md), [Portugués Brasileño (pt-br)](/other-langs/ATTRIBUTION_pt-br.md), **Español Mexicano (es-mx)**.
+Este documento está disponible en los siguientes idiomas: [Ruso (ru-RU)](/other-langs/ATTRIBUTION_ru-RU.md), [Inglés Americano (en-US)](/ATTRIBUTION.md), [Ucraniano (uk-UA)](/other-langs/ATTRIBUTION_uk-UA.md), [Portugués Brasileño (pt-BR)](/other-langs/ATTRIBUTION_pt-BR.md), **Español Mexicano (es-MX)**.
 
 # Ejemplos de Atribución
 
-> **Importante:** este documento complementa la [licencia del proyecto](/other-langs/LICENSE_es-mx.md), sección "1. Autoría y Atribución". La indicación correcta de autoría es un requisito obligatorio al utilizar cualquier parte del proyecto.
+> **Importante:** este documento complementa la [licencia del proyecto](/other-langs/LICENSE_es-MX.md), sección "1. Autoría y Atribución". La indicación correcta de autoría es un requisito obligatorio al utilizar cualquier parte del proyecto.
 
 Si utilizas cualquier parte del código o recursos del repositorio PROJECT_NAME, por favor menciona la autoría.
 
@@ -39,6 +39,6 @@ Si las opciones descritas aquí no te convienen o no se ajustan a tu proyecto, p
 
 ## Documentos Relacionados
 
-* [📜 licencia](/LICENSE_es-mx.md) — documento principal con requisitos de atribución;
-* [⚒️ términos de uso](/TERMS_OF_USE_es-mx.md) — requisitos adicionales para varios tipos de uso; y
-* [🤝 guía de contribución](/CONTRIBUTING_es-mx.md) — reglas para los contribuyentes del proyecto.
+* [📜 licencia](/LICENSE_es-MX.md) — documento principal con requisitos de atribución;
+* [⚒️ términos de uso](/TERMS_OF_USE_es-MX.md) — requisitos adicionales para varios tipos de uso; y
+* [🤝 guía de contribución](/CONTRIBUTING_es-MX.md) — reglas para los contribuyentes del proyecto.
