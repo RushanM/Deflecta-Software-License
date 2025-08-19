@@ -1,16 +1,16 @@
 Este documento está disponible en los siguientes idiomas: [ruso (ru-RU)](/other-langs/LICENSE_ru-RU.md), [inglés estadounidense (en-US)](/LICENSE.md), [ucraniano (uk-UA)](/other-langs/LICENSE_uk-UA.md), [portugués brasileño (pt-BR)](/other-langs/LICENSE_pt-BR.md), **español mexicano (es-MX)**.
 
-# Licencia de Software Deflecta, 1ª Edición de 2025
+# Licencia de Software Deflecta, 1ª edición de 2025
 
 ## Acuerdo de Licencia
 
-El proyecto está licenciado y sus derechos están protegidos © por COPYRIGHT_HOLDER en YEAR_NUMBER.
+El proyecto está licenciado y protegido por derechos de autor © TITULAR_DE_DERECHOS en el año NÚMERO_DE_AÑO.
 
 ## Preámbulo
 
 Con este documento, el titular de los derechos otorga un derecho no exclusivo, gratuito y mundial para utilizar el proyecto a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (en adelante "el proyecto"), siempre y cuando se cumplan todas las condiciones enumeradas a continuación. Cualquier uso del proyecto implica la aceptación de los términos de esta licencia.
 
-## Derechos Otorgados
+## Derechos otorgados
 
 De acuerdo con los términos de esta licencia, el titular de los derechos te otorga los siguientes derechos:
 
@@ -31,46 +31,50 @@ Los derechos mencionados anteriormente se otorgan solamente bajo el estricto cum
 * **modificación** — cualquier versión del proyecto con cambios realizados por una persona distinta al titular de los derechos; incluye forks, parches y otros cambios realizados por terceros;
 * **compilación** — un archivo ejecutable o aplicación compilada a partir del código fuente del proyecto o su modificación;
 * **uso comercial** — cualquier uso del proyecto o sus modificaciones que directa o indirectamente genera beneficio financiero, incluyendo, pero no limitado a: venta de compilaciones, compras integradas, venta de acceso, demostración con entrada pagada, uso en publicidad comercial;
-* **cambios significativos** — cambios que en conjunto transforman el proyecto de una modificación/parche en un producto comercialmente viable independiente. Para una evaluación objetiva, se tienen en cuenta los siguientes criterios:
-* * **criterio de contenido del juego:** es suficiente cumplir al menos una de las siguientes condiciones:
-* * * añadir nuevos niveles de juego, capítulos o elementos narrativos que amplíen sustancialmente la experiencia de juego (20% o más del volumen del proyecto original). Esto puede medirse de las siguientes maneras:
-* * * * aumento del tiempo de finalización del juego (en un 20% o más del tiempo promedio de finalización del proyecto original cuando es probado por cuatro jugadores diferentes en cualquier condición; la distorsión deliberada de los resultados constituye una violación de la licencia);
-* * * * aumento del número de niveles/ubicaciones del juego (en un 20% o más del número en el proyecto original);
-* * * * aumento del volumen de texto del juego, diálogos o misiones (en un 20% o más — medido en caracteres con espacios en los archivos fuente);
-* * * * aumento del número de misiones/tareas del juego (en un 20% o más del número en el proyecto original);
-* * * añadir al menos un nuevo personaje completo de juego con características únicas y línea argumental. Un personaje completo se define como:
-* * * * un personaje con su propia historia, diálogos (al menos 10 líneas) y características únicas;
-* * * * un personaje que desempeña un papel significativo en la jugabilidad o trama (influye en el desarrollo de la línea argumental principal o tiene su propia línea secundaria);
-* * * * un personaje con habilidades únicas de juego, si es aplicable al género del juego;
-* * * expansión del mundo del juego mediante la adición de nuevas ubicaciones que no existían en el proyecto original (al menos 2-3 nuevas ubicaciones completas con jugabilidad única o significado en la trama);
-* * * creación de una nueva rama argumental o final alternativo (al menos una línea argumental completa diferente a la original, con una duración de al menos el 15% de la trama principal);
-* * **criterio de mecánica de juego:** es suficiente cumplir al menos una de las siguientes condiciones:
-* * * añadir al menos una nueva mecánica sustancial de juego que cambie significativamente el proceso del juego y la interacción del jugador con el juego (por ejemplo, introducir un sistema de creación de objetos en un juego que no lo tenía, añadir un nuevo tipo de sistema de combate, etcétera);
-* * * cambios sustanciales en el equilibrio del juego que alteren significativamente la experiencia de juego (por ejemplo, rediseño completo del sistema de progresión de personajes, cambios en la economía del juego que afecten a más del 50% de los elementos del juego). Los elementos del juego incluyen: atributos de personajes, parámetros de objetos, mecánicas de juego, sistemas de progresión, indicadores económicos, niveles de dificultad y otros componentes personalizables del juego;
-* * * añadir nuevos modos de juego (por ejemplo, multijugador a un juego para un solo jugador o nuevos modos para un solo jugador);
-* * * rediseño de los sistemas principales de control o interfaz que cambie significativamente la experiencia de juego (cambio de más del 30% de los elementos de interfaz o métodos principales de control);
-* * **criterio de nuevos recursos:** es suficiente cumplir al menos una de las siguientes condiciones:
-* * * creación y adición de un volumen significativo de nuevos recursos multimedia originales (al menos 20% del volumen de recursos originales por tamaño de archivo en bytes), que puede incluir:
-* * * * nuevas texturas, modelos o animaciones;
-* * * * nuevos efectos de sonido;
-* * * * nuevas composiciones musicales;
-* * * rediseño de la mayor parte del estilo visual del juego (al menos 30% de los elementos visuales por número de archivos), manteniendo el concepto principal pero ofreciendo una nueva experiencia visual;
-* * * creación de al menos 5-7 nuevas composiciones musicales originales con una duración total de al menos 15 minutos, que enriquezcan significativamente el componente de audio del juego;
-* * **criterio de accesibilidad:** el contenido oculto detrás de compras dentro del juego no se considera al determinar la importancia de los cambios;
-* * **notas de medición:**
-* * * cuando la medición precisa por un método no es posible, se recomienda usar varios métodos de evaluación y considerarlos en conjunto;
-* * * los casos disputados son revisados por el titular de los derechos teniendo en cuenta el impacto general de los cambios en la experiencia de juego;
-* * * el autor de la modificación puede proporcionar sus propios argumentos de cumplimiento con los criterios con una descripción detallada de los cambios;
-* **contribución de la comunidad** — cualquier cambio propuesto por terceros a través de mecanismos como solicitudes de pull (pull requests), que han sido aceptados e incorporados al proyecto original.
+* **contribución comunitaria** — cualquier cambio propuesto por terceros a través de mecanismos como solicitudes de fusión (pull requests), que han sido aceptados e incorporados al proyecto original.
 
-Para fines informativos, se recomienda acompañar la modificación con un archivo README que contenga una descripción detallada de los cambios realizados al proyecto original.
+### Cambios significativos
 
-## 1. Autoría y Atribución
+**Cambios significativos** — cambios que, en conjunto, transforman el proyecto de una modificación/parche a un producto comercialmente viable independiente. Para una evaluación objetiva, se consideran los siguientes criterios:
+
+* **criterio de contenido de juego:** es suficiente cumplir al menos una de las condiciones:
+* * adición de nuevos niveles de juego, capítulos o elementos narrativos que amplíen sustancialmente la experiencia de juego (20% o más del volumen del proyecto original). Esto puede medirse de las siguientes maneras:
+* * * aumento del tiempo de juego (en un 20% o más del tiempo promedio de juego del proyecto original al ser probado por cuatro jugadores diferentes en cualquier condición; la distorsión deliberada de resultados constituye una violación de la licencia);
+* * * aumento del número de niveles/ubicaciones de juego (en un 20% o más de la cantidad en el proyecto original);
+* * * aumento del volumen de texto del juego, diálogos o misiones (en un 20% o más — medido en caracteres con espacios en los archivos originales);
+* * * aumento del número de misiones/tareas del juego (en un 20% o más de la cantidad en el proyecto original);
+* * adición de al menos un nuevo personaje de juego completo con características únicas y su propia línea narrativa. Por personaje completo se entiende:
+* * * un personaje con su propia historia, diálogos (al menos 10 líneas) y características únicas;
+* * * un personaje que desempeña un papel significativo en el proceso de juego o la trama (afecta el desarrollo de la línea argumental principal o tiene su propia línea secundaria);
+* * * un personaje con habilidades de juego únicas, si aplica al género del juego;
+* * expansión del mundo del juego mediante la adición de nuevas ubicaciones que no existían en el proyecto original (al menos 2-3 nuevas ubicaciones completas con jugabilidad única o significado narrativo);
+* * creación de una nueva rama narrativa o final alternativo (al menos una línea narrativa completa diferente de la original, con una duración no inferior al 15% de la trama principal);
+* **criterio de mecánica de juego:** es suficiente cumplir al menos una de las condiciones:
+* * adición de al menos una nueva mecánica de juego sustancial que cambie significativamente el proceso de juego y la interacción del jugador con el juego (por ejemplo, implementar un sistema de creación de objetos en un juego sin él, añadir un nuevo tipo de sistema de combate, etc.);
+* * cambio sustancial en el equilibrio del juego que altere significativamente la experiencia de juego (por ejemplo, una reestructuración completa del sistema de progresión del personaje, cambios en la economía del juego que afecten más del 50% de los elementos del juego). Por elementos del juego se entiende: características de los personajes, parámetros de los objetos, mecánicas de juego, sistemas de progresión, indicadores económicos, niveles de dificultad y otros componentes ajustables del juego;
+* * adición de nuevos modos de juego (por ejemplo, multijugador en un juego individual o nuevos modos de juego individual);
+* * rediseño de los sistemas principales de control o interfaz que cambien significativamente la experiencia de juego (modificación de más del 30% de los elementos de interfaz o controles principales);
+* **criterio de nuevos recursos:** es suficiente cumplir al menos una de las condiciones:
+* * creación y adición de un volumen significativo de nuevos recursos de autor (al menos el 20% del volumen de recursos originales medido en bytes), que puede incluir:
+* * * nuevas texturas, modelos o animaciones;
+* * * nuevos efectos de sonido;
+* * * nuevas composiciones musicales;
+* * rediseño de la mayor parte del estilo visual del juego (al menos el 30% de los elementos visuales por número de archivos), conservando el concepto básico pero ofreciendo una nueva experiencia visual;
+* * creación de al menos 5-7 nuevas composiciones musicales originales con una duración total de al menos 15 minutos, que enriquezcan significativamente el componente de audio del juego;
+* **criterio de accesibilidad:** el contenido oculto detrás de compras dentro del juego no se considera para determinar la importancia de los cambios;
+* **notas sobre la medición:**
+* * cuando no es posible una medición precisa con un método, se recomienda utilizar varios métodos de evaluación y considerarlos en conjunto;
+* * los casos dudosos son revisados por el titular de los derechos considerando el impacto general de los cambios en la experiencia de juego;
+* * el autor de la modificación puede proporcionar su propia argumentación de conformidad con los criterios, incluyendo una descripción detallada de los cambios.
+
+Para mayor información, se recomienda acompañar la modificación con un archivo README que contenga una descripción detallada de los cambios realizados al proyecto original.
+
+## 1. Autoría y atribución
 
 * no tienes derecho a llamarte autor o creador del proyecto original;
 * para cualquier publicación de una modificación, debes especificar:
 * * el nombre del proyecto original (siempre obligatorio);
-* * el nombre del titular de los derechos del proyecto original (obligatorio para modificaciones, pero puede no ser indicado en ciertos casos según las secciones [N° 1](/TERMS_OF_USE_ru-RU.md#1-использование-в-медиа-и-прямых-трансляциях) y [N° 2](/TERMS_OF_USE_ru-RU.md#2-использование-медиаресурсов) de los [términos de uso](/TERMS_OF_USE_ru-RU.md);
+* * el nombre del titular de los derechos del proyecto original (obligatorio para modificaciones, pero puede no ser indicado en ciertos casos según las secciones [N° 1](/other-langs/TERMS_OF_USE_es-MX.md#1-uso-en-medios-y-transmisiones-en-vivo) y [N° 2](/other-langs/TERMS_OF_USE_es-MX.md#2-uso-de-recursos-multimedia) de los [términos de uso](/other-langs/TERMS_OF_USE_es-MX.md);
 * * un enlace al repositorio fuente;
 * * indicación explícita de que tu proyecto está basado en el proyecto original;
 * la atribución debe ser claramente visible para los usuarios y puede colocarse de una o varias de las siguientes maneras:
@@ -81,7 +85,7 @@ Para fines informativos, se recomienda acompañar la modificación con un archiv
 * * para entornos corporativos cerrados — en la documentación interna;
 * está prohibida la publicación y distribución (pero no la creación) de forks (modificaciones) donde el único cambio significativo es agregarse a sí mismo a la lista de autores dentro del proyecto. Esta restricción no aplica a la información generada automáticamente (historial de commits, nombres de los autores de ediciones) o metadatos técnicos agregados por la plataforma de control de versiones.
 
-> **Nota:** ejemplos de atribución correcta se pueden encontrar en el documento ["Ejemplos de Menciones"](/ATTRIBUTION_ru-RU.md).
+> **Nota:** ejemplos de atribución correcta se pueden encontrar en el documento ["Ejemplos de menciones"](/other-langs/ATTRIBUTION_es-MX.md).
 
 ## 2. Uso del Código Fuente
 
@@ -93,7 +97,7 @@ Para fines informativos, se recomienda acompañar la modificación con un archiv
 * * el titular de los derechos se compromete a no distribuir el código proporcionado;
 * se permite usar el código fuente con fines educativos, incluso en cursos de capacitación pagados, siempre que se sigan las reglas de atribución. Tal uso no requiere permiso adicional del titular de los derechos.
 
-## 3. Uso Comercial
+## 3. Uso comercial
 
 * el uso comercial del proyecto se divide en las siguientes categorías:
 * * **comercialización directa:** venta de la modificación misma, la compilación o acceso a ella por un precio fijo;
@@ -108,7 +112,7 @@ Para fines informativos, se recomienda acompañar la modificación con un archiv
 * para publicación comercial, el autor de la modificación debe describir detalladamente los cambios significativos realizados en los materiales de acompañamiento y en el lugar de publicación;
 * *recomendación (no obligación)*: se recomienda a los autores de modificaciones comerciales ofrecer a sus usuarios la oportunidad de apoyar financieramente al titular de los derechos del proyecto original, por ejemplo, colocando un enlace a recursos relevantes.
 
-## 4. Modificaciones y Forks
+## 4. Modificaciones y forks
 
 * puedes descargar, modificar, compartir y publicar modificaciones y sus compilaciones cumpliendo con las reglas de atribución;
 * el autor de una modificación puede abrir y mantener un fork del repositorio oficial de código fuente;
@@ -140,7 +144,7 @@ Para fines informativos, se recomienda acompañar la modificación con un archiv
 * * este derecho no puede ser limitado por los autores de modificaciones que elijan otra licencia para sus proyectos;
 * este derecho de uso de ideas no se extiende a código específico o recursos multimedia creados por los autores de modificaciones, a menos que se hayan proporcionado al titular de los derechos o publicado bajo una licencia compatible.
 
-El resto se establece en el documento [guía de contribución](/CONTRIBUTING_ru-RU.md). Al proporcionar una contribución, aceptas los términos de esta licencia y reconoces el derecho del titular de los derechos a utilizar tus ideas en el proyecto original.
+El resto se establece en el documento [guía de contribución](/other-langs/CONTRIBUTING_es-MX.md). Al proporcionar una contribución, aceptas los términos de esta licencia y reconoces el derecho del titular de los derechos a utilizar tus ideas en el proyecto original.
 
 ## 7. Prioridad de Permisos Individuales
 
@@ -167,7 +171,7 @@ Si el titular de los derechos ha dado permiso por escrito para acciones que cont
 * esta licencia se aplica al código fuente y materiales del proyecto;
 * las modificaciones y compilaciones deben cumplir las siguientes condiciones:
 * * cuando se distribuyen bajo esta licencia – cumplir con todos sus términos;
-* * cuando se distribuyen bajo otra licencia – mantener los requisitos de esta licencia sobre atribución, respeto de derechos de autor y uso comercial (secciones [N° 1](#1-autoría-y-atribución), [N° 3](#3-uso-comercial), [N° 5](#5-distribución) y [sección N° 2 de los términos de uso](/TERMS_OF_USE_ru-RU.md#2-использование-медиаресурсов));
+* * cuando se distribuyen bajo otra licencia – mantener los requisitos de esta licencia sobre atribución, respeto de derechos de autor y uso comercial (secciones [N° 1](#1-autoría-y-atribución), [N° 3](#3-uso-comercial), [N° 5](#5-distribución) y [sección N° 2 de los términos de uso](/other-langs/TERMS_OF_USE_es-MX.md#2-uso-de-recursos-multimedia));
 * en caso de distribución de una modificación bajo otra licencia que entre en conflicto con los requisitos de esta licencia, se aplica el siguiente orden de prioridad:
 * * los requisitos de esta licencia sobre atribución ([sección N° 1](#1-autoría-y-atribución)) tienen prioridad absoluta y deben observarse en cualquier caso;
 * * los requisitos de esta licencia sobre uso comercial ([sección N° 3](#3-uso-comercial)) tienen prioridad sobre cualquier limitación menos restrictiva en la licencia elegida;
@@ -176,7 +180,7 @@ Si el titular de los derechos ha dado permiso por escrito para acciones que cont
 
 ## 11. Compatibilidad con Otras Licencias
 
-La información sobre la compatibilidad de esta licencia con otras licencias se describe en la [guía de contribución](/CONTRIBUTING_ru-RU.md). Al usar componentes de terceros, es necesario seguir los principios de preservación de las condiciones de sus licencias.
+Información sobre la compatibilidad de esta licencia con otras licencias se describe en la [guía de contribución](/other-langs/CONTRIBUTING_es-MX.md). Al usar componentes de terceros, es necesario seguir los principios de preservación de las condiciones de sus licencias.
 
 ## 12. Aplicación Internacional
 
@@ -193,7 +197,7 @@ La información sobre la compatibilidad de esta licencia con otras licencias se 
 
 Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitándose a las garantías de comerciabilidad, idoneidad para un propósito particular y no infracción. En ningún caso los autores o titulares de derechos serán responsables de ninguna reclamación, daños u otra responsabilidad, ya sea en una acción de contrato, agravio o de otro modo, derivada de, fuera de o en conexión con el software o el uso u otros tratos en el software.
 
-## 14. Resolución de Disputas
+## 14. Resolución de disputas
 
 * cualquier disputa que surja en relación con esta licencia, las partes se esfuerzan por resolverla mediante negociaciones;
 * si es imposible llegar a un acuerdo mediante negociaciones, las disputas se resuelven de acuerdo con la legislación determinada según la [sección de Aplicación Internacional](#12-aplicación-internacional);
@@ -213,16 +217,20 @@ Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa 
 * * presentarse como autor del proyecto original;
 * * negarse a proporcionar el código fuente de la modificación a solicitud del titular de los derechos cuando se sospeche una violación;
 * * publicación de modificaciones creadas para eludir restricciones internas del proyecto con fines fraudulentos;
-* * uso del proyecto de cualquiera de las formas prohibidas en la [sección "Formas Prohibidas de Uso"](/TERMS_OF_USE_ru-RU.md#4-запрещённые-способы-использования) de los [términos de uso del proyecto](/TERMS_OF_USE_ru-RU.md);
-* para restaurar derechos después de una violación, es necesario eliminar todas las violaciones y proporcionar al titular de los derechos confirmación de la eliminación. El titular de los derechos verifica la eliminación de violaciones mediante:
-* * verificación de la compilación y su funcionalidad;
-* * verificación del código fuente (si está abierto o proporcionado a solicitud);
-* * verificación del repositorio y materiales públicos;
-* * solicitud de acceso demostrativo a la compilación (para productos comerciales cerrados);
-* **mecanismo de apelación:** si el autor de la modificación no está de acuerdo con la decisión del titular de los derechos sobre la insuficiencia de cambios o eliminación de violaciones, puede solicitar reconsideración con justificaciones adicionales. Si no es posible llegar a un acuerdo, cualquiera de las partes puede proponer involucrar a un mediador independiente;
-* el cese temporal de la violación sin eliminar sus consecuencias no restaura automáticamente los derechos bajo esta licencia.
+* * uso del proyecto de cualquiera de las formas prohibidas en la [sección "Formas Prohibidas de Uso"](/other-langs/TERMS_OF_USE_es-MX.md#4-usos-prohibidos) de los [términos de uso del proyecto](/other-langs/TERMS_OF_USE_es-MX.md);
+* **mecanismo de apelación:** si el autor de la modificación no está de acuerdo con la decisión del titular de los derechos sobre la insuficiencia de los cambios o la eliminación de infracciones, puede solicitar una reconsideración proporcionando justificaciones adicionales. Si es imposible llegar a un acuerdo, cualquiera de las partes puede proponer la participación de un mediador independiente;
+* el cese temporal de la infracción sin eliminar sus consecuencias no restaura automáticamente los derechos bajo esta licencia.
 
-## 16. Procedimiento de Notificación y Resolución de Cuestiones
+## 16. Restauración de derechos después de una infracción
+
+Para restaurar los derechos después de una infracción, es necesario eliminar todas las infracciones y proporcionar al titular de los derechos confirmación de la eliminación. El titular de los derechos verifica la eliminación de las infracciones mediante:
+
+* revisión de la compilación y su funcionalidad;
+* revisión del código fuente (si está abierto o proporcionado a solicitud);
+* revisión del repositorio y materiales públicos;
+* solicitud de acceso demostrativo a la compilación (para productos comerciales cerrados).
+
+## 17. Procedimiento de notificación y resolución de problemas
 
 * si el titular de los derechos percibe una posible violación de los términos de la licencia, envía una notificación por escrito al autor de la modificación a una dirección de correo electrónico conocida indicando los puntos de la licencia violados y las acciones solicitadas (en adelante, "notificación");
 * la notificación debe contener:
@@ -241,14 +249,14 @@ Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa 
 * después de recibir una respuesta, el titular de los derechos dentro de 15 días calendario revisa las explicaciones proporcionadas o confirma la eliminación de las violaciones;
 * si las partes no pueden llegar a un acuerdo dentro de 60 días calendario desde la primera notificación, cualquiera de las partes puede proponer involucrar a un mediador neutral.
 
-Información adicional sobre el procedimiento de notificación y resolución de cuestiones se establece en la [guía de contribución](/CONTRIBUTING_ru-RU.md). Cuando surgen preguntas sobre violaciones de licencia, el titular de los derechos envía una notificación por escrito indicando los puntos violados y las acciones correctivas solicitadas.
+Información adicional sobre el procedimiento de notificación y resolución de cuestiones se establece en la [guía de contribución](/other-langs/CONTRIBUTING_es-MX.md). Cuando surgen preguntas sobre violaciones de licencia, el titular de los derechos envía una notificación por escrito indicando los puntos violados y las acciones correctivas solicitadas.
 
-## 17. Información de Contacto
+## 18. Información de contacto
 
-Para cualquier pregunta sobre esta licencia, puedes contactar por correo electrónico: EMAIL.
+Para cualquier pregunta sobre esta licencia, puedes contactar por correo electrónico: <DIRECCIÓN_DE_CORREO>.
 
-## Documentos Relacionados
+## Documentos relacionados
 
-* [⚒️ términos de uso](/TERMS_OF_USE_ru-RU.md) — reglas para aplicar el proyecto en varios escenarios,
-* [🤝 guía de contribución](/CONTRIBUTING_ru-RU.md) — reglas para colaboradores y colaboración,
-* [👤 ejemplos de menciones](/ATTRIBUTION_ru-RU.md) — cómo indicar correctamente la autoría al utilizar el proyecto.
+* [⚒️ términos de uso](/other-langs/TERMS_OF_USE_es-MX.md) — reglas para aplicar el proyecto en varios escenarios,
+* [🤝 guía de contribución](/other-langs/CONTRIBUTING_es-MX.md) — reglas para colaboradores y colaboración,
+* [👤 ejemplos de menciones](/other-langs/ATTRIBUTION_es-MX.md) — cómo indicar correctamente la autoría al utilizar el proyecto.

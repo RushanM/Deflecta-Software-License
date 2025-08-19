@@ -74,7 +74,7 @@ For informative purposes, it is recommended to accompany the modification with a
 * You do not have the right to call yourself the author or creator of the original project;
 * For any publication of a modification, you must specify:
 * * The name of the original project (always required);
-* * The name of the original project's copyright holder (required for modifications, but may not be indicated in certain cases according to sections [#1](/TERMS_OF_USE.md#1-использование-в-медиа-и-прямых-трансляциях) and [#2](/TERMS_OF_USE.md#2-использование-медиаресурсов) of the [Terms of Use](/TERMS_OF_USE.md);
+* * The name of the original project's copyright holder (required for modifications, but may not be indicated in certain cases according to sections [#1](/TERMS_OF_USE.md#1-media-and-livestream-usage) and [#2](/TERMS_OF_USE.md#2-media-resource-usage) of the [Terms of Use](/TERMS_OF_USE.md);
 * * A link to the source repository;
 * * Explicit indication that your project is based on the original project;
 * Attribution must be clearly visible to users and can be placed in one or more of the following ways:
@@ -171,7 +171,7 @@ If the copyright holder has given written permission for actions that contradict
 * This license applies to the source code and materials of the project;
 * Modifications and builds must comply with the following conditions:
 * * When distributed under this license – comply with all its terms;
-* * When distributed under another license – maintain this license's requirements regarding attribution, respect for copyright, and commercial use (sections [#1](#1-authorship-and-attribution), [#3](#3-commercial-use), [#5](#5-distribution), and [section #2 of the Terms of Use](/TERMS_OF_USE.md#2-использование-медиаресурсов));
+* * When distributed under another license – maintain this license's requirements regarding attribution, respect for copyright, and commercial use (sections [#1](#1-authorship-and-attribution), [#3](#3-commercial-use), [#5](#5-distribution), and [section #2 of the Terms of Use](/TERMS_OF_USE.md#2-media-resource-usage));
 * In the case of distributing a modification under another license that conflicts with the requirements of this license, the following order of priority applies:
 * * This license's requirements for attribution ([section #1](#1-authorship-and-attribution)) have absolute priority and must be observed in any case;
 * * This license's requirements for commercial use ([section #3](#3-commercial-use)) take precedence over any less restrictive limitations in the chosen license;
@@ -217,7 +217,7 @@ This software is provided "as is", without warranty of any kind, express or impl
 * * Presenting oneself as the author of the original project;
 * * Refusing to provide the source code of the modification upon request from the copyright holder when suspecting a violation;
 * * Publishing modifications created to circumvent internal project restrictions for fraudulent purposes;
-* * Using the project in any way prohibited in the [Prohibited Uses section](/TERMS_OF_USE.md#4-запрещённые-способы-использования) of the [project's Terms of Use](/TERMS_OF_USE.md);
+* * Using the project in any way prohibited in the [Prohibited Uses section](/TERMS_OF_USE.md#4-prohibited-uses) of the [project's Terms of Use](/TERMS_OF_USE.md);
 * **appeal mechanism:** if the modification author disagrees with the copyright holder's decision regarding the insufficiency of changes or elimination of violations, they may request reconsideration with additional justifications. If agreement cannot be reached, either party may propose involving an independent mediator;
 * Temporary cessation of violation without eliminating its consequences does not automatically restore rights under this license.
 
