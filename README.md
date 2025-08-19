@@ -18,8 +18,8 @@ The license consists of several complementary documents:
 
 * **LICENSE:** The main license document defining rights and obligations;
 * **TERMS_OF_USE:** Additional usage guidelines for specific scenarios (media, characters, server usage);
-* **ATTRIBUTION:** Examples of proper attribution statements;
-* **CONTRIBUTING:** Guidelines for contributing to the project.
+* **CONTRIBUTING:** Guidelines for contributing to the project;
+* **ATTRIBUTION:** Examples of proper attribution statements.
 
 ## How to Use
 

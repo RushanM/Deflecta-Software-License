@@ -18,8 +18,8 @@ A licença consiste em vários documentos complementares:
 
 * **LICENSE:** O documento principal da licença definindo direitos e obrigações;
 * **TERMS_OF_USE:** Diretrizes adicionais de uso para cenários específicos (mídia, personagens, uso em servidor);
-* **ATTRIBUTION:** Exemplos de declarações de atribuição adequadas;
-* **CONTRIBUTING:** Diretrizes para contribuir com o projeto.
+* **CONTRIBUTING:** Diretrizes para contribuir com o projeto;
+* **ATTRIBUTION:** Exemplos de declarações de atribuição adequadas.
 
 ## Como Usar
 
