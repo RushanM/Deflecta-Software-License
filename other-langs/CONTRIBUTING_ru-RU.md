@@ -1,4 +1,4 @@
-Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/CONTRIBUTING.md), [украинский (uk-UA)](/other-langs/CONTRIBUTING_uk-UA.md), [португальский бразильский (pt-BR)](/other-langs/CONTRIBUTING_pt-BR.md), [мексиканский испанский (es-MX)](/other-langs/CONTRIBUTING_es-MX.md).
+Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/CONTRIBUTING.md), [украинский (uk-UA)](/other-langs/CONTRIBUTING_uk-UA.md), [бразильский португальский (pt-BR)](/other-langs/CONTRIBUTING_pt-BR.md), [мексиканский испанский (es-MX)](/other-langs/CONTRIBUTING_es-MX.md).
 
 # Руководство по внесению вклада от 2025 года
 

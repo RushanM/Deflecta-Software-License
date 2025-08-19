@@ -1,4 +1,4 @@
-Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/LICENSE.md), [украинский (uk-UA)](/other-langs/LICENSE_uk-UA.md), [португальский бразильский (pt-BR)](/other-langs/LICENSE_pt-BR.md), [мексиканский испанский (es-MX)](/other-langs/LICENSE_es-MX.md).
+Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/LICENSE.md), [украинский (uk-UA)](/other-langs/LICENSE_uk-UA.md), [бразильский португальский (pt-BR)](/other-langs/LICENSE_pt-BR.md), [мексиканский испанский (es-MX)](/other-langs/LICENSE_es-MX.md).
 
 # Программная лицензия Дефлекты, 1-я редакция от 2025 года
 

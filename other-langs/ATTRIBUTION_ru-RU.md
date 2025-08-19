@@ -1,4 +1,4 @@
-Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/ATTRIBUTION.md), [украинский (uk-UA)](/other-langs/ATTRIBUTION_uk-UA.md), [португальский бразильский (pt-BR)](/other-langs/ATTRIBUTION_pt-BR.md), [мексиканский испанский (es-MX)](/other-langs/ATTRIBUTION_es-MX.md).
+Этот документ доступен на следующих языках: **русский (ru-RU)**, [американский английский (en-US)](/ATTRIBUTION.md), [украинский (uk-UA)](/other-langs/ATTRIBUTION_uk-UA.md), [бразильский португальский (pt-BR)](/other-langs/ATTRIBUTION_pt-BR.md), [мексиканский испанский (es-MX)](/other-langs/ATTRIBUTION_es-MX.md).
 
 # Образцы упоминаний
 
