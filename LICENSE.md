@@ -31,37 +31,41 @@ The aforementioned rights are granted only under strict compliance with the cond
 * **modification** - any version of the project with changes made by a person other than the copyright holder; includes forks, patches, and other changes made by third parties;
 * **build** - an executable file or application compiled from the project's source code or its modification;
 * **commercial use** - any use of the project or its modifications that directly or indirectly brings financial benefit, including but not limited to: selling builds, in-app purchases, selling access, paid demonstrations, or use in commercial advertising;
-* **significant changes** - changes that collectively transform the project from a modification/patch into an independent commercially viable product. For objective assessment, the following criteria are taken into account:
-* * **game content criterion**: meeting at least one of the following conditions is sufficient:
-* * * adding new game levels, chapters, or story elements that substantially expand the gaming experience (20% or more of the original project's volume). This can be measured in the following ways:
-* * * * increased game completion time (by 20% or more from the average completion time of the original project when tested by four different players under any conditions; deliberate distortion of results is a violation of the license);
-* * * * increased number of game levels/locations (by 20% or more from the number in the original project);
-* * * * increased volume of game text, dialogues, or quests (by 20% or more - measured in characters with spaces in the source files);
-* * * * increased number of game missions/tasks (by 20% or more from the number in the original project);
-* * * adding at least one new full-fledged game character with unique features and storyline. A full-fledged character is defined as:
-* * * * a character with their own history, dialogues (at least 10 lines), and unique features;
-* * * * a character playing a significant role in the gameplay or plot (influencing the development of the main storyline or having their own side storyline);
-* * * * a character with unique game abilities, if applicable to the game genre;
-* * * expanding the game world through adding new locations that did not exist in the original project (at least 2-3 full-fledged new locations with unique gameplay or plot significance);
-* * * creating a new story branch or alternative ending (at least one full-fledged storyline different from the original, with a duration of at least 15% of the main plot);
-* * **game mechanics criterion**: meeting at least one of the following conditions is sufficient:
-* * * adding at least one new substantial game mechanic that significantly changes the gameplay and player interaction with the game (e.g., introducing a crafting system into a game without one, adding a new type of combat system, etc.);
-* * * substantial changes to game balance that significantly alter the gaming experience (e.g., complete overhaul of the character progression system, changes to the game economy affecting more than 50% of game elements). Game elements include: character attributes, item parameters, game mechanics, progression systems, economic indicators, difficulty levels, and other customizable game components;
-* * * adding new game modes (e.g., multiplayer to a single-player game or new single-player modes);
-* * * redesigning the core control systems or interface that significantly changes the gaming experience (changing more than 30% of interface elements or primary control methods);
-* * **new resources criterion**: meeting at least one of the following conditions is sufficient:
-* * * creating and adding a significant volume of new original media resources (at least 20% of the volume of original resources by file size in bytes), which may include:
-* * * * new textures, models, or animations;
-* * * * new sound effects;
-* * * * new musical compositions;
-* * * redesigning the majority of the game's visual style (at least 30% of visual elements by number of files), while maintaining the core concept but offering a new visual experience;
-* * * creating at least 5-7 new original musical compositions with a total duration of at least 15 minutes, significantly enriching the audio component of the game;
-* * **accessibility criterion**: content hidden behind in-game purchases is not considered when determining the significance of changes;
-* * **measurement notes**:
-* * * when precise measurement by one method is not possible, it is recommended to use several evaluation methods and consider them collectively;
-* * * disputed cases are reviewed by the copyright holder taking into account the overall impact of changes on the gaming experience;
-* * * the modification author may provide their own arguments for compliance with the criteria with a detailed description of the changes;
 * **community contribution** - any changes proposed by third parties through mechanisms such as pull requests that have been accepted and incorporated into the original project.
+
+### Significant Changes
+
+**Significant changes** are changes that collectively transform the project from a modification/patch into an independent commercially viable product. For objective assessment, the following criteria are taken into account:
+
+* **game content criterion**: meeting at least one of the following conditions is sufficient:
+* * adding new game levels, chapters, or story elements that substantially expand the gaming experience (20% or more of the original project's volume). This can be measured in the following ways:
+* * * increased game completion time (by 20% or more from the average completion time of the original project when tested by four different players under any conditions; deliberate distortion of results is a violation of the license);
+* * * increased number of game levels/locations (by 20% or more from the number in the original project);
+* * * increased volume of game text, dialogues, or quests (by 20% or more - measured in characters with spaces in the source files);
+* * * increased number of game missions/tasks (by 20% or more from the number in the original project);
+* * adding at least one new full-fledged game character with unique features and storyline. A full-fledged character is defined as:
+* * * a character with their own history, dialogues (at least 10 lines), and unique features;
+* * * a character playing a significant role in the gameplay or plot (influencing the development of the main storyline or having their own side storyline);
+* * * a character with unique game abilities, if applicable to the game genre;
+* * expanding the game world through adding new locations that did not exist in the original project (at least 2-3 full-fledged new locations with unique gameplay or plot significance);
+* * creating a new story branch or alternative ending (at least one full-fledged storyline different from the original, with a duration of at least 15% of the main plot);
+* **game mechanics criterion**: meeting at least one of the following conditions is sufficient:
+* * adding at least one new substantial game mechanic that significantly changes the gameplay and player interaction with the game (e.g., introducing a crafting system into a game without one, adding a new type of combat system, etc.);
+* * substantial changes to game balance that significantly alter the gaming experience (e.g., complete overhaul of the character progression system, changes to the game economy affecting more than 50% of game elements). Game elements include: character attributes, item parameters, game mechanics, progression systems, economic indicators, difficulty levels, and other customizable game components;
+* * adding new game modes (e.g., multiplayer to a single-player game or new single-player modes);
+* * redesigning the core control systems or interface that significantly changes the gaming experience (changing more than 30% of interface elements or primary control methods);
+* **new resources criterion**: meeting at least one of the following conditions is sufficient:
+* * creating and adding a significant volume of new original media resources (at least 20% of the volume of original resources by file size in bytes), which may include:
+* * * new textures, models, or animations;
+* * * new sound effects;
+* * * new musical compositions;
+* * redesigning the majority of the game's visual style (at least 30% of visual elements by number of files), while maintaining the core concept but offering a new visual experience;
+* * creating at least 5-7 new original musical compositions with a total duration of at least 15 minutes, significantly enriching the audio component of the game;
+* **accessibility criterion**: content hidden behind in-game purchases is not considered when determining the significance of changes;
+* **measurement notes**:
+* * when precise measurement by one method is not possible, it is recommended to use several evaluation methods and consider them collectively;
+* * disputed cases are reviewed by the copyright holder taking into account the overall impact of changes on the gaming experience;
+* * the modification author may provide their own arguments for compliance with the criteria with a detailed description of the changes;
 
 For informative purposes, it is recommended to accompany the modification with a README file containing a detailed description of changes made to the original project.
 
@@ -214,15 +218,19 @@ This software is provided "as is", without warranty of any kind, express or impl
 * * refusing to provide the source code of the modification upon request from the copyright holder when suspecting a violation;
 * * publishing modifications created to circumvent internal project restrictions for fraudulent purposes;
 * * using the project in any way prohibited in the [Prohibited Uses section](/TERMS_OF_USE.md#4-запрещённые-способы-использования) of the [project's Terms of Use](/TERMS_OF_USE.md);
-* to restore rights after a violation, it is necessary to eliminate all violations and provide the copyright holder with confirmation of elimination. The copyright holder verifies the elimination of violations by:
-* * checking the build and its functionality;
-* * checking the source code (if it is open or provided upon request);
-* * checking the repository and public materials;
-* * requesting demonstration access to the build (for commercial closed products);
 * **appeal mechanism**: if the modification author disagrees with the copyright holder's decision regarding the insufficiency of changes or elimination of violations, they may request reconsideration with additional justifications. If agreement cannot be reached, either party may propose involving an independent mediator;
 * temporary cessation of violation without eliminating its consequences does not automatically restore rights under this license.
 
-## 16. Notification Procedure and Resolution of Issues
+## 16. Restoration of Rights After Violation
+
+To restore rights after a violation, it is necessary to eliminate all violations and provide the copyright holder with confirmation of elimination. The copyright holder verifies the elimination of violations by:
+
+* checking the build and its functionality;
+* checking the source code (if it is open or provided upon request);
+* checking the repository and public materials;
+* requesting demonstration access to the build (for commercial closed products).
+
+## 17. Notification Procedure and Resolution of Issues
 
 * if the copyright holder perceives a possible violation of the license terms, they send a written notification to the modification author at a known email address indicating the violated license points and requested actions (hereinafter referred to as "notification");
 * the notification must contain:
@@ -243,12 +251,12 @@ This software is provided "as is", without warranty of any kind, express or impl
 
 Additional information about the notification procedure and resolution of issues is set out in the [contribution guidelines](/CONTRIBUTING.md). When questions arise about license violations, the copyright holder sends a written notification indicating the violated points and requested remedial actions.
 
-## 17. Contact Information
+## 18. Contact Information
 
 For any questions regarding this license, you can contact via email: EMAIL.
 
 ## Related Documents
 
-* [👤 attribution examples](/ATTRIBUTION.md) - how to properly indicate authorship when using the project,
 * [⚒️ terms of use](/TERMS_OF_USE.md) - rules for applying the project in various scenarios,
-* [🤝 contribution guidelines](/CONTRIBUTING.md) - rules for contributors and collaboration.
+* [🤝 contribution guidelines](/CONTRIBUTING.md) - rules for contributors and collaboration,
+* [👤 attribution examples](/ATTRIBUTION.md) - how to properly indicate authorship when using the project.
