@@ -41,3 +41,9 @@ Si el mismo archivo/componente cae simultáneamente bajo los requisitos de varia
 * * información sobre el tamaño y contenido de los recursos añadidos;
 * * una tabla comparativa o lista que muestre el volumen y naturaleza de los cambios realizados;
 * tn los casos en que la compilación es comercial y el acceso a ella solo está.
+
+## Documentos Relacionados
+
+* [📜 licencia](/other-langs/LICENSE_es-MX.md) — documento principal con requisitos de atribución;
+* [⚒️ términos de uso](/other-langs/TERMS_OF_USE_es-MX.md) — requisitos adicionales para varios tipos de uso; y
+* [👤 ejemplos de menciones](/other-langs/ATTRIBUTION_es-MX.md) — cómo indicar correctamente la autoría al utilizar el proyecto.

@@ -44,6 +44,6 @@ Se o mesmo arquivo/componente se enquadra simultaneamente nos requisitos de vár
 
 ## Documentos Relacionados
 
-* [📜 licença](/LICENSE_pt-BR.md) — documento principal com direitos e restrições;
-* [⚒️ termos de uso](/TERMS_OF_USE_pt-BR.md) — regras adicionais para o uso do projeto;
-* [👤 exemplos de atribuição](/ATTRIBUTION_pt-BR.md) — como indicar corretamente a autoria.
+* [📜 licença](/other-langs/LICENSE_pt-BR.md) — documento principal com direitos e restrições;
+* [⚒️ termos de uso](/other-langs/TERMS_OF_USE_pt-BR.md) — regras adicionais para o uso do projeto;
+* [👤 exemplos de atribuição](/other-langs/ATTRIBUTION_pt-BR.md) — como indicar corretamente a autoria.

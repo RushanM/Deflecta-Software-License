@@ -39,6 +39,6 @@ Se as opções descritas aqui não forem adequadas ou não se encaixarem no seu 
 
 ## Documentos Relacionados
 
-* [📜 licença](/LICENSE_pt-BR.md) — documento principal com requisitos de atribuição;
-* [⚒️ termos de uso](/TERMS_OF_USE_pt-BR.md) — requisitos adicionais para vários tipos de uso;
-* [🤝 diretrizes de contribuição](/CONTRIBUTING_pt-BR.md) — regras para contribuidores do projeto.
+* [📜 licença](/other-langs/LICENSE_pt-BR.md) — documento principal com requisitos de atribuição;
+* [⚒️ termos de uso](/other-langs/TERMS_OF_USE_pt-BR.md) — requisitos adicionais para vários tipos de uso;
+* [🤝 diretrizes de contribuição](/other-langs/CONTRIBUTING_pt-BR.md) — regras para contribuidores do projeto.

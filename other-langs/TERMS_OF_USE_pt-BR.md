@@ -91,6 +91,6 @@ Regulamentados pelas regras de uso em servidor da [Seção 5](#5-uso-em-servidor
 
 ## Documentos Relacionados
 
-* [📜 Licença](/LICENSE_pt-BR.md) — documento principal com direitos e restrições,
-* [👤 Exemplos de atribuição](/ATTRIBUTION_pt-BR.md) — como creditar corretamente a autoria,
-* [🤝 Diretrizes de contribuição](/CONTRIBUTING_pt-BR.md) — regras para contribuidores do projeto.
+* [📜 Licença](/other-langs/LICENSE_pt-BR.md) — documento principal com direitos e restrições,
+* [👤 Exemplos de atribuição](/other-langs/ATTRIBUTION_pt-BR.md) — como creditar corretamente a autoria,
+* [🤝 Diretrizes de contribuição](/other-langs/CONTRIBUTING_pt-BR.md) — regras para contribuidores do projeto.

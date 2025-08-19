@@ -39,6 +39,6 @@ Si las opciones descritas aquí no te convienen o no se ajustan a tu proyecto, p
 
 ## Documentos Relacionados
 
-* [📜 licencia](/LICENSE_es-MX.md) — documento principal con requisitos de atribución;
-* [⚒️ términos de uso](/TERMS_OF_USE_es-MX.md) — requisitos adicionales para varios tipos de uso; y
-* [🤝 guía de contribución](/CONTRIBUTING_es-MX.md) — reglas para los contribuyentes del proyecto.
+* [📜 licencia](/other-langs/LICENSE_es-MX.md) — documento principal con requisitos de atribución;
+* [⚒️ términos de uso](/other-langs/TERMS_OF_USE_es-MX.md) — requisitos adicionales para varios tipos de uso; y
+* [🤝 guía de contribución](/other-langs/CONTRIBUTING_es-MX.md) — reglas para los contribuyentes del proyecto.

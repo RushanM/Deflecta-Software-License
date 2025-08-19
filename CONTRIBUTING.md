@@ -45,5 +45,5 @@ If the same file/component simultaneously falls under the requirements of severa
 ## Related Documents
 
 * [📜 license](/LICENSE.md) - main document with rights and restrictions;
-* [⚒️ terms of use](/other-langs/TERMS_OF_USE.md) - additional rules for using the project;
+* [⚒️ terms of use](/TERMS_OF_USE.md) - additional rules for using the project;
 * [👤 attribution samples](/ATTRIBUTION.md) - how to properly indicate authorship.

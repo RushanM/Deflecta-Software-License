@@ -91,6 +91,6 @@ Se regulan por las reglas de uso en servidor de la [Sección 5](#5-uso-en-servid
 
 ## Documentos Relacionados
 
-* [📜 Licencia](/LICENSE_es-MX.md) — documento principal con derechos y restricciones,
-* [👤 Ejemplos de atribución](/ATTRIBUTION_es-MX.md) — cómo acreditar correctamente la autoría,
-* [🤝 Guía de contribución](/CONTRIBUTING_es-MX.md) — reglas para contribuidores del proyecto.
+* [📜 Licencia](/other-langs/LICENSE_es-MX.md) — documento principal con derechos y restricciones,
+* [👤 Ejemplos de atribución](/other-langs/ATTRIBUTION_es-MX.md) — cómo acreditar correctamente la autoría,
+* [🤝 Guía de contribución](/other-langs/CONTRIBUTING_es-MX.md) — reglas para contribuidores del proyecto.
