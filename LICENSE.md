@@ -253,7 +253,7 @@ Additional information about the notification procedure and resolution of issues
 
 ## 18. Contact Information
 
-For any questions regarding this license, you can contact via email: EMAIL.
+For any questions regarding this license, you can contact via email: <EMAIL>.
 
 ## Related Documents
 
