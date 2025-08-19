@@ -32,7 +32,7 @@ Os direitos acima mencionados são concedidos apenas sob estrito cumprimento das
 * **compilação** — um arquivo executável ou aplicativo compilado a partir do código-fonte do projeto ou sua modificação;
 * **uso comercial** — qualquer uso do projeto ou suas modificações que direta ou indiretamente traz benefício financeiro, incluindo, mas não se limitando a: venda de compilações, compras integradas, venda de acesso, demonstração com entrada paga, uso em publicidade comercial;
 * **alterações significativas** — alterações que coletivamente transformam o projeto de uma modificação/patch em um produto comercialmente viável independente. Para avaliação objetiva, os seguintes critérios são levados em consideração:
-* * **critério de conteúdo do jogo**: é suficiente atender pelo menos uma das seguintes condições:
+* * **critério de conteúdo do jogo:** é suficiente atender pelo menos uma das seguintes condições:
 * * * adição de novos níveis de jogo, capítulos ou elementos de história que expandam substancialmente a experiência de jogo (20% ou mais do volume do projeto original). Isso pode ser medido das seguintes maneiras:
 * * * * aumento do tempo de conclusão do jogo (em 20% ou mais do tempo médio de conclusão do projeto original quando testado por quatro jogadores diferentes sob quaisquer condições; distorção deliberada dos resultados é uma violação da licença);
 * * * * aumento do número de níveis/locais do jogo (em 20% ou mais do número no projeto original);
@@ -44,20 +44,20 @@ Os direitos acima mencionados são concedidos apenas sob estrito cumprimento das
 * * * * um personagem com habilidades de jogo únicas, se aplicável ao gênero do jogo;
 * * * expansão do mundo do jogo através da adição de novos locais que não existiam no projeto original (pelo menos 2-3 novos locais completos com jogabilidade única ou significado na trama);
 * * * criação de um novo ramo de história ou final alternativo (pelo menos uma linha de história completa diferente da original, com duração de pelo menos 15% do enredo principal);
-* * **critério de mecânica de jogo**: é suficiente atender pelo menos uma das seguintes condições:
+* * **critério de mecânica de jogo:** é suficiente atender pelo menos uma das seguintes condições:
 * * * adição de pelo menos uma nova mecânica de jogo substancial que mude significativamente a jogabilidade e interação do jogador com o jogo (por exemplo, introdução de um sistema de criação em um jogo sem ele, adição de um novo tipo de sistema de combate, etc.);
 * * * mudanças substanciais no equilíbrio do jogo que alterem significativamente a experiência de jogo (por exemplo, revisão completa do sistema de progressão do personagem, alterações na economia do jogo afetando mais de 50% dos elementos do jogo). Elementos do jogo incluem: atributos de personagens, parâmetros de itens, mecânicas de jogo, sistemas de progressão, indicadores econômicos, níveis de dificuldade e outros componentes personalizáveis do jogo;
 * * * adição de novos modos de jogo (por exemplo, multiplayer em um jogo para um jogador ou novos modos para um jogador);
 * * * redesenho dos sistemas de controle ou interface principais que alteram significativamente a experiência de jogo (alterando mais de 30% dos elementos de interface ou métodos de controle primários);
-* * **critério de novos recursos**: é suficiente atender pelo menos uma das seguintes condições:
+* * **critério de novos recursos:** é suficiente atender pelo menos uma das seguintes condições:
 * * * criação e adição de um volume significativo de novos recursos de mídia originais (pelo menos 20% do volume dos recursos originais por tamanho de arquivo em bytes), que podem incluir:
 * * * * novas texturas, modelos ou animações;
 * * * * novos efeitos sonoros;
 * * * * novas composições musicais;
 * * * redesenho da maior parte do estilo visual do jogo (pelo menos 30% dos elementos visuais por número de arquivos), mantendo o conceito principal mas oferecendo uma nova experiência visual;
 * * * criação de pelo menos 5-7 novas composições musicais originais com duração total de pelo menos 15 minutos, enriquecendo significativamente o componente de áudio do jogo;
-* * **critério de acessibilidade**: conteúdo oculto por trás de compras no jogo não é considerado ao determinar a significância das alterações;
-* * **notas de medição**:
+* * **critério de acessibilidade:** conteúdo oculto por trás de compras no jogo não é considerado ao determinar a significância das alterações;
+* * **notas de medição:**
 * * * quando a medição precisa por um método não é possível, recomenda-se usar vários métodos de avaliação e considerá-los coletivamente;
 * * * casos disputados são revisados pelo titular dos direitos levando em consideração o impacto geral das alterações na experiência de jogo;
 * * * o autor da modificação pode fornecer seus próprios argumentos para conformidade com os critérios com uma descrição detalhada das alterações;
@@ -81,7 +81,7 @@ Para fins informativos, recomenda-se acompanhar a modificação com um arquivo R
 * * para ambientes corporativos fechados — na documentação interna;
 * é proibida a publicação e distribuição (mas não a criação) de forks (modificações) onde a única mudança significativa é adicionar-se à lista de autores dentro do projeto. Esta restrição não se aplica a informações geradas automaticamente (histórico de commits, nomes dos autores das edições) ou metadados técnicos adicionados pela plataforma de controle de versão.
 
-> **Nota**: exemplos de atribuição adequada podem ser encontrados no documento ["Exemplos de Atribuição"](/ATTRIBUTION_ru-ru.md).
+> **Nota:** exemplos de atribuição adequada podem ser encontrados no documento ["Exemplos de Atribuição"](/ATTRIBUTION_ru-ru.md).
 
 ## 2. Uso do Código-Fonte
 
@@ -96,15 +96,15 @@ Para fins informativos, recomenda-se acompanhar a modificação com um arquivo R
 ## 3. Uso Comercial
 
 * o uso comercial do projeto é dividido nas seguintes categorias:
-* * **comercialização direta**: venda da modificação em si, da compilação ou acesso a ela por um preço fixo;
-* * **comercialização indireta**: geração de receita de publicidade, doações ou produtos/serviços relacionados;
-* * **elementos pagos integrados**: monetização através de compras no jogo ou conteúdo pago (conteúdo premium), incluindo modelos free-to-play com microtransações;
+* * **comercialização direta:** venda da modificação em si, da compilação ou acesso a ela por um preço fixo;
+* * **comercialização indireta:** geração de receita de publicidade, doações ou produtos/serviços relacionados;
+* * **elementos pagos integrados:** monetização através de compras no jogo ou conteúdo pago (conteúdo premium), incluindo modelos free-to-play com microtransações;
 * para comercialização direta, uma das seguintes condições é necessária:
 * * presença de alterações significativas de acordo com os critérios na [seção Definições](#definições) (neste caso, não é necessária permissão especial do titular dos direitos);
 * * permissão por escrito do titular dos direitos;
 * para comercialização indireta, apenas o cumprimento das regras de atribuição é necessário;
 * para elementos pagos integrados em modificações gratuitas, apenas o cumprimento das regras de atribuição é necessário;
-* **distinção de categorias**: se a modificação principal é distribuída gratuitamente, mas contém complementos pagos ou conteúdo pago (conteúdo premium), isso é considerado "elementos pagos integrados", não comercialização direta;
+* **distinção de categorias:** se a modificação principal é distribuída gratuitamente, mas contém complementos pagos ou conteúdo pago (conteúdo premium), isso é considerado "elementos pagos integrados", não comercialização direta;
 * para publicação comercial, o autor da modificação deve descrever em detalhes as alterações significativas feitas nos materiais de acompanhamento e no local de publicação;
 * *recomendação (não uma obrigação)*: autores de modificações comerciais são incentivados a oferecer aos seus usuários a oportunidade de apoiar financeiramente o titular dos direitos do projeto original, por exemplo, colocando um link para recursos relevantes.
 
@@ -219,7 +219,7 @@ Este software é fornecido "como está", sem garantia de qualquer tipo, expressa
 * * verificação do código-fonte (se estiver aberto ou fornecido mediante solicitação);
 * * verificação do repositório e materiais públicos;
 * * solicitação de acesso demonstrativo à compilação (para produtos comerciais fechados);
-* **mecanismo de apelação**: se o autor da modificação discordar da decisão do titular dos direitos sobre a insuficiência de alterações ou eliminação de violações, ele pode solicitar reconsideração com justificativas adicionais. Se não for possível chegar a um acordo, qualquer uma das partes pode propor o envolvimento de um mediador independente;
+* **mecanismo de apelação:** se o autor da modificação discordar da decisão do titular dos direitos sobre a insuficiência de alterações ou eliminação de violações, ele pode solicitar reconsideração com justificativas adicionais. Se não for possível chegar a um acordo, qualquer uma das partes pode propor o envolvimento de um mediador independente;
 * cessação temporária da violação sem eliminar suas consequências não restaura automaticamente os direitos sob esta licença.
 
 ## 16. Procedimento de Notificação e Resolução de Questões

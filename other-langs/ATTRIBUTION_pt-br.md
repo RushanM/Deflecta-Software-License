@@ -2,7 +2,7 @@ Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-l
 
 # Exemplos de Atribuição
 
-> **Importante**: este documento complementa a [licença do projeto](/other-langs/LICENSE_pt-br.md), seção "1. Autoria e Atribuição". A indicação correta de autoria é um requisito obrigatório ao utilizar quaisquer partes do projeto.
+> **Importante:** este documento complementa a [licença do projeto](/other-langs/LICENSE_pt-br.md), seção "1. Autoria e Atribuição". A indicação correta de autoria é um requisito obrigatório ao utilizar quaisquer partes do projeto.
 
 Se você usar qualquer parte do código ou recursos do repositório PROJECT_NAME, por favor, mencione a autoria.
 
@@ -39,6 +39,6 @@ Se as opções descritas aqui não forem adequadas ou não se encaixarem no seu 
 
 ## Documentos Relacionados
 
-* [📜 licença](/LICENSE_pt-br.md) — documento principal com requisitos de atribuição,
-* [⚒️ termos de uso](/TERMS_OF_USE_pt-br.md) — requisitos adicionais para vários tipos de uso,
+* [📜 licença](/LICENSE_pt-br.md) — documento principal com requisitos de atribuição;
+* [⚒️ termos de uso](/TERMS_OF_USE_pt-br.md) — requisitos adicionais para vários tipos de uso;
 * [🤝 diretrizes de contribuição](/CONTRIBUTING_pt-br.md) — regras para contribuidores do projeto.

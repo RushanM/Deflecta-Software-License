@@ -2,7 +2,7 @@ This document is available in the following languages: [Russian (ru-ru)](/other-
 
 # Attribution Examples
 
-> **Important**: This document supplements the [project license](/LICENSE.md), section "1. Authorship and Attribution". Proper attribution is a mandatory requirement when using any parts of the project.
+> **Important:** This document supplements the [project license](/LICENSE.md), section "1. Authorship and Attribution". Proper attribution is a mandatory requirement when using any parts of the project.
 
 If you use any part of the code or assets from the PROJECT_NAME repository, please attribute the authorship.
 
@@ -38,6 +38,6 @@ If the options described here don't suit you or don't fit your project, you can 
 
 ## Related Documents
 
-* [📜 license](/LICENSE.md) - main document with attribution requirements,
-* [⚒️ terms of use](/TERMS_OF_USE.md) - additional requirements for various types of use,
+* [📜 license](/LICENSE.md) - main document with attribution requirements;
+* [⚒️ terms of use](/TERMS_OF_USE.md) - additional requirements for various types of use;
 * [🤝 contribution guidelines](/CONTRIBUTING.md) - rules for project contributors.

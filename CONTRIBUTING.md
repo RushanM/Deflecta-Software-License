@@ -2,7 +2,7 @@ This document is available in the following languages: [Russian (ru-ru)](/other-
 
 # Contribution Guidelines for 2025
 
-> **Note**: This document supplements the main [project license](/LICENSE.md) and details the rights and obligations of contributors. Special attention should be paid to [Section 6. Community Contributions and Use of Ideas](/LICENSE.md#1-community-contributions-and-use-of-ideas) in the license.
+> **Note:** This document supplements the main [project license](/LICENSE.md) and details the rights and obligations of contributors. Special attention should be paid to [Section 6. Community Contributions and Use of Ideas](/LICENSE.md#1-community-contributions-and-use-of-ideas) in the license.
 
 ## 1. Community Contributions and Use of Ideas
 
@@ -44,6 +44,6 @@ If the same file/component simultaneously falls under the requirements of severa
 
 ## Related Documents
 
-* [📜 License](/LICENSE.md) - main document with rights and restrictions,
-* [👤 Attribution samples](/ATTRIBUTION.md) - how to properly indicate authorship,
-* [⚒️ Terms of use](/other-langs/TERMS_OF_USE.md) - additional rules for using the project.
+* [📜 license](/LICENSE.md) - main document with rights and restrictions;
+* [⚒️ terms of use](/other-langs/TERMS_OF_USE.md) - additional rules for using the project;
+* [👤 attribution samples](/ATTRIBUTION.md) - how to properly indicate authorship.

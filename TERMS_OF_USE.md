@@ -2,7 +2,7 @@ This document is available in the following languages: [Russian (ru-ru)](/other-
 
 # Project Terms of Use, 2025
 
-> **Important**: This document supplements the main [project license](/LICENSE.md) and clarifies usage rules in specific scenarios. In case of contradictions between this document and the license, the license takes precedence.
+> **Important:** This document supplements the main [project license](/LICENSE.md) and clarifies usage rules in specific scenarios. In case of contradictions between this document and the license, the license takes precedence.
 
 ## 1. Use in Media and Live Streams
 
@@ -25,6 +25,10 @@ This document is available in the following languages: [Russian (ru-ru)](/other-
 * You may create and publish individual screenshots of the original project without attribution as standalone images, including posting on social networks, messengers, and other platforms;
 * You may store and transfer the project's media resources through file-sharing services without attribution. However, public distribution of such links for commercial purposes (e.g., on forums or websites) must include reference to the original project;
 * Use of copyrighted media resources in third-party projects (not modifications) is allowed with proper attribution and source reference.
+* standalone tools designed to interact with the project's data (such as save editors, resource extractors, etc.) that are not derived from the original source code are permitted, provided they:
+* * include proper attribution to the original project;
+* * clearly state their unofficial nature;
+* * do not misrepresent their connection to the original project.
 
 ## 3. Use of Characters and Project Elements in Third-Party Works
 
@@ -49,13 +53,19 @@ The project is not intended or certified for use in systems where failure could 
 
 Use of the project, its modifications, or media resources for political campaigning, propaganda, election campaigns, or in materials of a partisan nature is prohibited without written consent from the copyright holder. This restriction is established by the copyright holder within their rights to control the use of the work and is aimed at preventing the association of the project with any political views or movements.
 
-**Clarification**: The prohibition does not extend to the incidental presence of political elements in the background (for example, posters in the background of a stream). Active use of the project to express political views or to attract an audience to political goals is considered a violation.
+**Clarification:** The prohibition does not extend to the incidental presence of political elements in the background (for example, posters in the background of a stream). Active use of the project to express political views or to attract an audience to political goals is considered a violation.
 
 ### 4.3. Machine Learning and AI
 
 Use of the source code, media resources, or their derivatives for automatic processing for the purpose of training, fine-tuning, inference, or creating datasets for machine learning and generative models without prior written consent from the copyright holder is prohibited. When such consent is provided, explicit indication of the source and transfer of terms of use in the model documentation is required.
 
-**Exceptions**: Use of integrated development environments (IDEs) with AI-based auto-completion features when developing project modifications is permitted. Use of AI to create content in modifications based on project materials (without training AI on these materials) is also allowed.
+**Exceptions:** Use of integrated development environments (IDEs) with AI-based auto-completion features when developing project modifications is permitted. Use of AI to create content in modifications based on project materials (without training AI on these materials) is also allowed.
+
+**Clarifications:**
+
+* Creating content (videos, images, etc.) using AI generative tools where project materials are used as prompts or inputs is permitted, provided proper attribution is included as specified in [Section 1](#1-use-in-media-and-live-streams).
+* This differs from training AI models on project materials (which requires permission) as it uses existing AI models to generate new content based on project elements.
+* The use of AI-generated content is subject to the same attribution requirements as manually created content.
 
 ## 5. Server Use and API Services
 
@@ -73,7 +83,7 @@ Creation of non-fungible tokens (NFTs) based on project elements is only permitt
 
 Use of characters, design elements, or other components of the project in virtual worlds (e.g., VRChat, Minecraft, Roblox) and metaverses is regulated as follows:
 
-* Creation of 3D models of project characters for use in virtual worlds falls under "third-party works" in [Section 3](#3-use-of-characters-and-project-elements-in-third-party-works) and requires attribution,
+* Creation of 3D models of project characters for use in virtual worlds falls under "third-party works" in [Section 3](#3-use-of-characters-and-project-elements-in-third-party-works) and requires attribution;
 * End users of such models are not required to provide attribution.
 
 ### 6.3. Cloud Gaming Services
@@ -91,6 +101,6 @@ Regulated by the server use rules from [Section 5](#5-server-use-and-api-service
 
 ## Related Documents
 
-* [📜 License](/LICENSE.md) - main document with rights and restrictions,
-* [👤 Attribution samples](/ATTRIBUTION.md) - how to properly credit authorship,
-* [🤝 Contribution guidelines](/CONTRIBUTING.md) - rules for project contributors.
+* [📜 license](/LICENSE.md) - main document with rights and restrictions
+* [🤝 contribution guidelines](/CONTRIBUTING.md) - rules for project contributors
+* [👤 attribution samples](/ATTRIBUTION.md) - how to properly credit authorship

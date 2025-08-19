@@ -2,14 +2,14 @@ Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-l
 
 # Diretrizes de Contribuição de 2025
 
-> **Observação**: este documento é um complemento à [licença principal do projeto](/other-langs/LICENSE_pt-br.md) e detalha os direitos e obrigações dos contribuidores. Atenção especial deve ser dada à [seção "6. Contribuições da Comunidade e Uso de Ideias"](/other-langs/LICENSE_pt-br.md#1-contribuições-da-comunidade-e-uso-de-ideias) na licença.
+> **Observação:** este documento é um complemento à [licença principal do projeto](/other-langs/LICENSE_pt-br.md) e detalha os direitos e obrigações dos contribuidores. Atenção especial deve ser dada à [seção "6. Contribuições da Comunidade e Uso de Ideias"](/other-langs/LICENSE_pt-br.md#1-contribuições-da-comunidade-e-uso-de-ideias) na licença.
 
 ## 1. Contribuições da Comunidade e Uso de Ideias
 
-* Ao fornecer contribuições ao projeto original (por meio de pull requests ou outro mecanismo), você concorda que sua contribuição será distribuída nos termos [desta licença](/other-langs/LICENSE_pt-br.md);
-* O detentor dos direitos autorais do projeto original tem o direito de aceitar, rejeitar ou modificar qualquer contribuição a seu critério;
-* A autoria da contribuição permanece com seu autor e será indicada no histórico de edições e na lista de criadores;
-* Fazer uma contribuição não dá o direito de ser considerado coautor do projeto original como um todo, a menos que explicitamente declarado pelo detentor dos direitos autorais.
+* ao fornecer contribuições ao projeto original (por meio de pull requests ou outro mecanismo), você concorda que sua contribuição será distribuída nos termos [desta licença](/other-langs/LICENSE_pt-br.md);
+* o detentor dos direitos autorais do projeto original tem o direito de aceitar, rejeitar ou modificar qualquer contribuição a seu critério;
+* a autoria da contribuição permanece com seu autor e será indicada no histórico de edições e na lista de criadores;
+* fazer uma contribuição não dá o direito de ser considerado coautor do projeto original como um todo, a menos que explicitamente declarado pelo detentor dos direitos autorais.
 
 ## 2. Concessão de Patente
 
@@ -25,9 +25,9 @@ A [licença do projeto](/LICENSE_pt-br.md) não é automaticamente aprovada pela
 
 Ao incluir componentes de terceiros (código, mídia, bibliotecas) no repositório que são distribuídos sob suas próprias licenças, essas licenças originais permanecem em vigor. Ao distribuir trabalhos compilados (builds), é necessário:
 
-* Preservar avisos de direitos autorais e textos de licença exigidos pelas licenças originais;
-* Indicar explicitamente na descrição da build e/ou no arquivo THIRD_PARTY_LICENSES (ou equivalente) quais arquivos/diretórios estão sob quais licenças;
-* Não relicenciar arquivos de terceiros sob esta licença sem permissão explícita por escrito dos detentores dos direitos autorais.
+* preservar avisos de direitos autorais e textos de licença exigidos pelas licenças originais;
+* indicar explicitamente na descrição da build e/ou no arquivo THIRD_PARTY_LICENSES (ou equivalente) quais arquivos/diretórios estão sob quais licenças;
+* não relicenciar arquivos de terceiros sob esta licença sem permissão explícita por escrito dos detentores dos direitos autorais.
 
 ### 3.3. Regra Geral para Condições Conflitantes
 
@@ -35,15 +35,15 @@ Se o mesmo arquivo/componente se enquadra simultaneamente nos requisitos de vár
 
 ## 4. Procedimento de Notificação e Resolução de Problemas
 
-* O autor de uma modificação comercial deve, a pedido do detentor dos direitos autorais, fornecer um dos seguintes tipos de confirmação de conformidade com os critérios para mudanças significativas:
-* * Capturas de tela do projeto ou vídeos demonstrando novo conteúdo;
-* * Uma lista de mecânicas de jogo adicionadas com sua breve descrição;
-* * Informações sobre o tamanho e conteúdo dos recursos adicionados;
-* * Uma tabela comparativa ou lista mostrando o volume e a natureza das mudanças feitas;
-* Nos casos em que a build é comercial e o acesso a ela só está disponível pelo vendedor, o detentor dos direitos autorais pode solicitar acesso de demonstração/teste para verificar a conformidade. Tal solicitação deve ser atendida dentro de 15 dias corridos.
+* o autor de uma modificação comercial deve, a pedido do detentor dos direitos autorais, fornecer um dos seguintes tipos de confirmação de conformidade com os critérios para mudanças significativas:
+* * capturas de tela do projeto ou vídeos demonstrando novo conteúdo;
+* * uma lista de mecânicas de jogo adicionadas com sua breve descrição;
+* * informações sobre o tamanho e conteúdo dos recursos adicionados;
+* * uma tabela comparativa ou lista mostrando o volume e a natureza das mudanças feitas;
+* nos casos em que a build é comercial e o acesso a ela só está disponível pelo vendedor, o detentor dos direitos autorais pode solicitar acesso de demonstração/teste para verificar a conformidade. Tal solicitação deve ser atendida dentro de 15 dias corridos.
 
 ## Documentos Relacionados
 
-* [📜 Licença](/LICENSE_pt-br.md) — documento principal com direitos e restrições,
-* [👤 Exemplos de atribuição](/ATTRIBUTION_pt-br.md) — como indicar corretamente a autoria,
-* [⚒️ Termos de uso](/TERMS_OF_USE_pt-br.md) — regras adicionais para o uso do projeto.
+* [📜 licença](/LICENSE_pt-br.md) — documento principal com direitos e restrições;
+* [⚒️ termos de uso](/TERMS_OF_USE_pt-br.md) — regras adicionais para o uso do projeto;
+* [👤 exemplos de atribuição](/ATTRIBUTION_pt-br.md) — como indicar corretamente a autoria.

@@ -2,7 +2,7 @@ Este documento está disponível nos seguintes idiomas: [Russo (ru-ru)](/other-l
 
 # Termos de Uso do Projeto de 2025
 
-> **Importante**: este documento complementa a [licença principal do projeto](/other-langs/LICENSE_pt-br.md) e especifica regras de uso em cenários específicos. Em caso de contradições entre este documento e a licença, a licença tem prioridade.
+> **Importante:** este documento complementa a [licença principal do projeto](/other-langs/LICENSE_pt-br.md) e especifica regras de uso em cenários específicos. Em caso de contradições entre este documento e a licença, a licença tem prioridade.
 
 ## 1. Uso em Mídia e Transmissões ao Vivo
 
@@ -49,13 +49,13 @@ O projeto não é destinado ou certificado para uso em sistemas onde falhas poss
 
 É proibido o uso do projeto, suas modificações ou recursos de mídia para campanhas políticas, propaganda, campanhas eleitorais ou em materiais de natureza partidária sem o consentimento por escrito do detentor dos direitos autorais. Esta restrição é estabelecida pelo detentor dos direitos autorais dentro de seus direitos de controlar o uso da obra e visa impedir a associação do projeto com quaisquer visões ou movimentos políticos.
 
-**Esclarecimento**: A proibição não se estende à presença incidental de elementos políticos no fundo (por exemplo, cartazes no fundo de uma transmissão). O uso ativo do projeto para expressar opiniões políticas ou para atrair público para objetivos políticos é considerado uma violação.
+**Esclarecimento:** A proibição não se estende à presença incidental de elementos políticos no fundo (por exemplo, cartazes no fundo de uma transmissão). O uso ativo do projeto para expressar opiniões políticas ou para atrair público para objetivos políticos é considerado uma violação.
 
 ### 4.3. Aprendizado de Máquina e IA
 
 É proibido o uso do código-fonte, recursos de mídia ou seus derivados para processamento automático com o propósito de treinar, ajustar, inferir ou criar conjuntos de dados para aprendizado de máquina e modelos generativos sem o consentimento prévio por escrito do detentor dos direitos autorais. Quando tal consentimento for fornecido, é necessária a indicação explícita da fonte e a transferência dos termos de uso na documentação do modelo.
 
-**Exceções**: É permitido o uso de ambientes de desenvolvimento integrado (IDEs) com recursos de autocompletar baseados em IA ao desenvolver modificações do projeto. Também é permitido o uso de IA para criar conteúdo em modificações baseadas em materiais do projeto (sem treinar IA nesses materiais).
+**Exceções:** É permitido o uso de ambientes de desenvolvimento integrado (IDEs) com recursos de autocompletar baseados em IA ao desenvolver modificações do projeto. Também é permitido o uso de IA para criar conteúdo em modificações baseadas em materiais do projeto (sem treinar IA nesses materiais).
 
 ## 5. Uso em Servidores e Serviços de API
 
