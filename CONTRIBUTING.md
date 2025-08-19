@@ -1,4 +1,4 @@
-This document is available in the following languages: [Russian (ru-ru)](/other-langs/CONTRIBUTING_ru-ru.md), [Ukrainian (uk-ua)](/other-langs/CONTRIBUTING_uk-ua.md), **American English (en-us)**, [Brazilian Portuguese (pt-br)](/other-langs/CONTRIBUTING_pt-br.md), [Mexican Spanish (es-mx)](/other-langs/CONTRIBUTING_es-mx.md).
+This document is available in the following languages: [Russian (ru-ru)](/other-langs/CONTRIBUTING_ru-ru.md), **American English (en-us)**, [Ukrainian (uk-ua)](/other-langs/CONTRIBUTING_uk-ua.md), [Brazilian Portuguese (pt-br)](/other-langs/CONTRIBUTING_pt-br.md), [Mexican Spanish (es-mx)](/other-langs/CONTRIBUTING_es-mx.md).
 
 # Contribution Guidelines for 2025
 
