@@ -19,7 +19,7 @@
 
 ### 3.1. Статус ліцензії
 
-[Ліцензія проєкту](/LICENSE_uk-UA.md) не є автоматично схваленою Open Source Initiative (OSI) або визнаною Free Software Foundation (FSF) як вільне ПЗ, якщо явно не зазначено інше.
+[Ліцензія проєкту](/other-langs/LICENSE_uk-UA.md) не є автоматично схваленою Open Source Initiative (OSI) або визнаною Free Software Foundation (FSF) як вільне ПЗ, якщо явно не зазначено інше.
 
 ### 3.2. Принцип збереження умов сторонніх компонентів
 
