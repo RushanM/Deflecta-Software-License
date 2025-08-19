@@ -28,21 +28,21 @@ The aforementioned rights are granted only under strict compliance with the cond
 * **Copyright holder** - the person or persons specified in the LICENSE file or other official project documents who have legal property rights to the project (regardless of whether they are the authors or not);
 * **Changes** - any modifications to the project contents, regardless of who makes them;
 * **Official changes** - changes made by the copyright holder to the original project;
-* **Modification** - any version of the project with changes made by a person other than the copyright holder; includes forks, patches, and other changes made by third parties;
+* **Modification** - any version of the project with changes made by a person other than the copyright holder; includes forks, patches, and other changes made by third parties. Modifications may retain the original concept and content or completely transform it while maintaining the same volume or technical framework;
 * **Build** - an executable file or application compiled from the project's source code or its modification;
 * **Commercial use** - any use of the project or its modifications that directly or indirectly brings financial benefit, including but not limited to: selling builds, in-app purchases, selling access, paid demonstrations, or use in commercial advertising;
 * **Community contribution** - any changes proposed by third parties through mechanisms such as pull requests that have been accepted and incorporated into the original project.
 
 ### Significant Changes
 
-**Significant changes** are changes that collectively transform the project from a modification/patch into an independent commercially viable product. For objective assessment, the following criteria are taken into account:
+**Significant changes** are changes that collectively transform the project from a modification/patch into an independent commercially viable product. These changes may completely transform the original game's concept, theme, or focus. For objective assessment, the following criteria are taken into account:
 
 * **Game content criterion:** meeting at least one of the following conditions is sufficient:
-* * Adding new game levels, chapters, or story elements that substantially expand the gaming experience (20% or more of the original project's volume). This can be measured in the following ways:
-* * * Increased game completion time (by 20% or more from the average completion time of the original project when tested by four different players under any conditions; deliberate distortion of results is a violation of the license);
-* * * Increased number of game levels/locations (by 20% or more from the number in the original project);
-* * * Increased volume of game text, dialogues, or quests (by 20% or more - measured in characters with spaces in the source files);
-* * * Increased number of game missions/tasks (by 20% or more from the number in the original project);
+* * Adding new game levels, chapters, or story elements that substantially expand or replace the gaming experience (20% or more of the original project's volume). This can be measured in the following ways:
+* * * Increased or transformed game completion time (by 20% or more from the average completion time of the original project when tested by four different players under any conditions; deliberate distortion of results is a violation of the license);
+* * * Increased or replaced number of game levels/locations (by 20% or more from the number in the original project);
+* * * Increased or replaced volume of game text, dialogues, or quests (by 20% or more - measured in characters with spaces in the source files);
+* * * Increased or replaced number of game missions/tasks (by 20% or more from the number in the original project);
 * * Adding at least one new full-fledged game character with unique features and storyline. A full-fledged character is defined as:
 * * * A character with their own history, dialogues (at least 10 lines), and unique features;
 * * * A character playing a significant role in the gameplay or plot (influencing the development of the main storyline or having their own side storyline);
@@ -71,7 +71,7 @@ For informative purposes, it is recommended to accompany the modification with a
 
 ## 1. Authorship and Attribution
 
-* You do not have the right to call yourself the author or creator of the original project;
+* Anyone other than the original copyright holder or authors does not have the right to claim themselves as the author or creator of the original project;
 * For any publication of a modification, you must specify:
 * * The name of the original project (always required);
 * * The name of the original project's copyright holder (required for modifications, but may not be indicated in certain cases according to sections [#1](/TERMS_OF_USE.md#1-media-and-livestream-usage) and [#2](/TERMS_OF_USE.md#2-media-resource-usage) of the [Terms of Use](/TERMS_OF_USE.md);
@@ -104,7 +104,7 @@ For informative purposes, it is recommended to accompany the modification with a
 * * **Indirect commercialization:** generating revenue from advertising, donations, or related products/services;
 * * **Built-in paid elements:** monetization through in-game purchases or paid content (premium content), including free-to-play models with microtransactions;
 * For direct commercialization, one of the following conditions is necessary:
-* * Presence of significant changes according to the criteria in the [Definitions section](#definitions) (in this case, no special permission from the copyright holder is required);
+* * Presence of significant changes according to the criteria in the [Definitions section](#definitions), which may include completely replacing or transforming the original content while maintaining the volume requirements (in this case, no special permission from the copyright holder is required);
 * * Written permission from the copyright holder;
 * For indirect commercialization, only compliance with attribution rules is required;
 * For built-in paid elements in free modifications, only compliance with attribution rules is required;
@@ -214,7 +214,7 @@ This software is provided "as is", without warranty of any kind, express or impl
 * Material breaches include:
 * * Absence or insufficient attribution of the original project;
 * * Commercial use without complying with requirements for significant changes or without permission from the copyright holder;
-* * Presenting oneself as the author of the original project;
+* * A person falsely presenting themselves as the author of the original project (this does not apply to the original copyright holder or authors);
 * * Refusing to provide the source code of the modification upon request from the copyright holder when suspecting a violation;
 * * Publishing modifications created to circumvent internal project restrictions for fraudulent purposes;
 * * Using the project in any way prohibited in the [Prohibited Uses section](/TERMS_OF_USE.md#4-prohibited-uses) of the [project's Terms of Use](/TERMS_OF_USE.md);

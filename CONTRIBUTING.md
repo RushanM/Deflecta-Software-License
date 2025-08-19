@@ -36,9 +36,9 @@ If the same file/component simultaneously falls under the requirements of severa
 ## 4. Notification Procedure and Issue Resolution
 
 * The author of a commercial modification must, at the request of the copyright holder, provide one of the following types of confirmation of compliance with the criteria for significant changes:
-* * Project screenshots or videos demonstrating new content;
-* * A list of added game mechanics with their brief description;
-* * Information about the size and content of added resources;
+* * Project screenshots or videos demonstrating new content or transformed original content;
+* * A list of added or transformed game mechanics with their brief description;
+* * Information about the size and content of added or replaced resources;
 * * A comparative table or list showing the volume and nature of changes made;
 * In cases where the build is commercial and access to it is only available from the seller, the copyright holder may request demonstration/trial access to verify compliance. Such a request must be fulfilled within 15 calendar days.
 
